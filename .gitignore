@@ -1,0 +1,18 @@
+# ビルド生成物（GitHub Actions 側で毎回生成するため）
+sitemap.xml
+robots.txt
+_site/
+.og.tmp.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 検証用の一時ファイル
+*.tmp.png
+verify*.png
