@@ -5,6 +5,20 @@
 
 ---
 
+## 0. 最初に：`_to_delete` を削除する
+
+リポジトリを作成した環境の制約でファイルを削除できなかったため、gitの一時ファイルが `_to_delete/` に退避してあります。**中身は不要なので、まず削除してください。**
+
+```bash
+cd ~/Documents/anime-popup-events
+rm -rf _to_delete
+git status          # クリーンになっていることを確認
+```
+
+ここから先は普通の git リポジトリとして扱えます。
+
+---
+
 ## 1. GitHub でリポジトリを作る
 
 ブラウザで https://github.com/new を開き、以下を設定します。
