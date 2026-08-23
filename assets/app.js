@@ -63,6 +63,21 @@ const sel = document.getElementById('region');
 [...new Set(evs.map(e=>e.region))].sort((a,b)=>RO.indexOf(a)-RO.indexOf(b))
   .forEach(r=>{ const o=document.createElement('option'); o.value=r; o.textContent='地域：'+r; sel.appendChild(o); });
 
+/* ---- キービジュアル ----
+   img が空、または読み込みに失敗した場合は、作品名から決定的に生成した
+   グラデーションにフォールバックする（onerror で img を取り除く）。
+   collabo-cafe / AMNIBUS からのホットリンク。画像の複製・再配布はしない。 */
+const hashOf = s => { let h = 0; for (let i=0;i<s.length;i++) h = (h*31 + s.charCodeAt(i)) | 0; return Math.abs(h); };
+function visual(e, cls){
+  const h  = hashOf(e.work);
+  const h1 = h % 360, h2 = (h1 + 40 + (h >> 3) % 50) % 360;
+  const bg = `linear-gradient(135deg,hsl(${h1} 42% 30%),hsl(${h2} 46% 18%))`;
+  const im = e.img
+    ? `<img src="${esc(e.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`
+    : '';
+  return `<div class="${cls||'vis'}" style="background:${bg}"><span class="vis-t">${esc(e.work)}</span>${im}</div>`;
+}
+
 /* ---- card ---- */
 const mapURL = q => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(q);
 function mapRow(e){
@@ -80,6 +95,7 @@ function cardHTML(e, opt={}){
   const workLine = opt.hideWork ? '' :
     `<a class="work" href="#/work/${encodeURIComponent(e.work)}" onclick="event.stopPropagation()">${esc(e.work)} ›</a>`;
   return `<div class="card s-${e.st}">
+    ${visual(e)}
     <div class="row1"><span class="badge b-${e.st}">${LB[e.st]}</span>${note}</div>
     <div>${workLine}<a class="ttl" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a></div>
     <div class="meta">
@@ -185,7 +201,9 @@ const works = [...new Set(evs.map(e=>e.work))].map(w=>{
   const live = list.filter(e=>e.st==='live').length;
   const soon = list.filter(e=>e.st==='soon').length;
   const upcoming = list.find(e=>e.st!=='done');
-  return {w, list, live, soon, upcoming};
+  // 作品索引のサムネイル：開催中／予定のもの優先で、img が入っている1件を代表にする
+  const rep = list.find(e=>e.img && e.st!=='done') || list.find(e=>e.img) || list[0];
+  return {w, list, live, soon, upcoming, rep};
 });
 function renderWorks(){
   const q = document.getElementById('wq').value.trim().toLowerCase();
@@ -201,6 +219,7 @@ function renderWorks(){
              : `<span class="badge b-done">終了</span>`;
     const nxt = x.upcoming ? `${fmt(x.upcoming.start)} 〜` : `最終開催 ${fmt(x.list[x.list.length-1].end)}`;
     return `<a class="wcard" href="#/work/${encodeURIComponent(x.w)}">
+      ${visual(x.rep, 'wvis')}
       <div class="wname">${esc(x.w)}</div>
       <div class="wsub">${st}<span><span class="n">${x.list.length}</span> 件の開催</span></div>
       <div class="wsub"><span class="ico">📅</span><span class="date">${nxt}</span></div>
