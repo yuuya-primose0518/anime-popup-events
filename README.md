@@ -11,28 +11,63 @@
 
 ```
 .
-├── index.html               ← 公開されるサイト本体（自己完結・外部依存なし）
-├── data/events.json         ← データ本体。ここだけ編集すればよい
-├── build_site.py            ← events.json から index.html を生成
-├── make_og.py               ← OGP画像 og.png を生成（Playwright が必要）
-├── og.png                   ← OGP画像
+├── index.html                    ← ページの骨組み（データは持たない・118行）
+├── assets/style.css              ← 見た目
+├── assets/app.js                 ← data/events.json を読み込んで描画する
+├── data/events.json              ← データ本体。イベントの更新はここだけ
+├── build_site.py                 ← 公開用 _site/ を組み立てる（JSON-LD・sitemap）
+├── make_og.py                    ← OGP画像 og.png を生成（Playwright が必要）
+├── og.png                        ← OGP画像
 └── .github/workflows/deploy.yml  ← push すると GitHub Pages へ自動デプロイ
 ```
 
-`index.html` は CSS も JS もデータもすべて 1 ファイルに埋め込んであります。ビルドツールもサーバーも不要で、ファイルをブラウザで開くだけで動きます。
+データは HTML に埋め込みません。`assets/app.js` が実行時に `data/events.json` を
+`fetch` して描画します。**イベント情報を更新するときに触るのは `data/events.json` だけ**で、
+`index.html` の差分は発生しません。
+
+外部ライブラリ・CDN への依存はありません。
 
 ## 更新のしかた
 
 1. `data/events.json` にイベントを追記する
-2. `python3 build_site.py` を実行して `index.html` を再生成する
-3. commit して push する → GitHub Actions が自動でデプロイする
+2. commit して push する → GitHub Actions が自動でビルド・デプロイする
+
+ビルドを手元で走らせる必要はありません。`build_site.py` がやるのは
+「検索エンジン向けの味付け」だけです。
+
+- `index.html` の `<!-- BUILD:JSONLD:START -->` 〜 `END` の間に schema.org の
+  JSON-LD（イベント全件）を差し込む
+- `sitemap.xml` / `robots.txt` を生成する
+- 以上をまとめて `_site/` に出力する（**リポジトリ内のファイルは書き換えない**）
+
+## ローカルで確認する
+
+`fetch` を使うため、`index.html` を `file://` でそのまま開くと動きません。
+かならずHTTPサーバ経由で開いてください。
 
 ```bash
-python3 build_site.py          # ローカル確認用（canonical・OGPの絶対URLなし）
+python3 -m http.server 8000                 # → http://localhost:8000/
+```
+
+公開されるものと同じ状態（JSON-LD・sitemap 入り）を見たいときは:
+
+```bash
+python3 build_site.py
+python3 -m http.server -d _site 8000
+```
+
+`SITE_URL` を渡すと canonical / OGP / sitemap の絶対URLを差し替えられます。
+GitHub Actions では Pages の公開URLが自動で入るため、手で設定する必要はありません。
+
+```bash
 SITE_URL=https://<ユーザー名>.github.io/<リポジトリ名> python3 build_site.py
 ```
 
-`SITE_URL` を渡すと canonical / OGP の絶対URL・`sitemap.xml`・`robots.txt` も出力されます。GitHub Actions では Pages の公開URLが自動で入るため、手で設定する必要はありません。
+## デザインを直したいとき
+
+- 色・レイアウト → `assets/style.css`
+- 表示ロジック（カード・カレンダー・絞り込み） → `assets/app.js`
+- 見出し・フッター・メタ情報 → `index.html`
 
 ## データ形式
 

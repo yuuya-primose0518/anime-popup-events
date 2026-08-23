@@ -109,8 +109,9 @@ Settings → Pages の上部にもURLが表示されます。
 このトークンを Claude のプロジェクトに保存すれば、定期タスクが毎週
 
 1. 新着イベントを調査して `data/events.json` を更新
-2. `build_site.py` で `index.html` を再生成
-3. commit して push → GitHub Actions がデプロイ
+2. commit して push → GitHub Actions がビルド・デプロイ
+
+（`index.html` はデータを持たないので、更新するのは `data/events.json` だけです）
 
 まで自動で行います。
 
@@ -120,14 +121,15 @@ Settings → Pages の上部にもURLが表示されます。
 
 ### 方式B：手動で反映する（トークン不要）
 
-定期タスクはこれまで通り更新済みの `events.json` と `index.html` を送るだけにして、反映は自分のタイミングで行います。
+定期タスクはこれまで通り更新済みの `events.json` を送るだけにして、反映は自分のタイミングで行います。
 
 ```bash
 cd ~/Documents/anime-popup-events
-# 送られてきた events.json を data/ に上書きしてから
-python3 build_site.py
+# 送られてきた events.json を data/events.json に上書きしてから
 git add -A && git commit -m "イベント情報を更新" && git push
 ```
+
+ビルドは GitHub Actions 側で走るので、手元で `build_site.py` を実行する必要はありません。
 
 push すれば GitHub Actions が自動でデプロイします。
 
@@ -139,5 +141,6 @@ push すれば GitHub Actions が自動でデプロイします。
 |---|---|
 | Actions が赤くなる | Actions タブでログを見る。多くは Settings → Pages の Source が `GitHub Actions` になっていないケース |
 | 404 が出る | Pages の有効化直後は数分かかる。URL末尾のスラッシュも確認 |
-| CSSが当たらない・表示が崩れる | スーパーリロード（`Cmd + Shift + R`）。それでも直らなければ Actions のログで `Assemble _site` が成功しているか確認 |
+| CSSが当たらない・表示が崩れる | スーパーリロード（`Cmd + Shift + R`）。それでも直らなければ Actions のログで `Build site` が成功しているか確認 |
+| イベントが1件も出ない・「読み込めませんでした」と出る | `data/events.json` が公開先に置かれているか確認（Actions のログの `_site/ を生成しました` の行）。ローカルなら `file://` で開いていないか確認（HTTPサーバ経由が必要） |
 | push で認証に失敗する | パスワードではなく Personal Access Token を使う。`git remote -v` でURLも確認 |

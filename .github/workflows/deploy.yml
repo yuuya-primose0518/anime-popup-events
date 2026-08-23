@@ -31,19 +31,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      # events.json から index.html / sitemap.xml / robots.txt を生成する。
-      # SITE_URL は Pages の公開URLが自動で入るので、手で設定する必要はない。
+      # build_site.py が _site/ を組み立てる。
+      #   index.html + assets/ + data/events.json をコピーし、
+      #   JSON-LD の差し込みと sitemap.xml / robots.txt の生成を行う。
+      # リポジトリ内のファイルは書き換えないので、生成物のコミットは不要。
+      # SITE_URL は Pages の公開URLが自動で入る。
       - name: Build site
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}
         run: python3 build_site.py
-
-      - name: Assemble _site
-        run: |
-          mkdir -p _site/data
-          cp index.html og.png sitemap.xml robots.txt _site/
-          cp data/events.json _site/data/
-          touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
         with:
