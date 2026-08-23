@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -4126,6 +4126,30 @@
         {
           "n": "博多マルイ",
           "q": "博多マルイ"
+        }
+      ]
+    },
+    {
+      "id": "sega-universe-shibuya-parco",
+      "work": "SEGA UNIVERSE",
+      "title": "SEGA UNIVERSE POPUP STORE in 渋谷PARCO",
+      "venue": "渋谷PARCO 6F ポップアップスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-07",
+      "end": "2026-08-30",
+      "url": "https://segauniverse.sega.jp/news/detail/137/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/sega-universe-popup-store-shibuya-parco-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/sega-universe-popup-store-logo.jpg",
+      "tags": [
+        "ゲーム",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "渋谷PARCO",
+          "q": "渋谷PARCO"
         }
       ]
     }
