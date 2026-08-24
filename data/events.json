@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-24",
+    "updated": "2026-08-25",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -4150,6 +4150,57 @@
         {
           "n": "渋谷PARCO",
           "q": "渋谷PARCO"
+        }
+      ]
+    },
+    {
+      "id": "bleach-tsoi-shibuya",
+      "work": "BLEACH",
+      "title": "BLEACH THE STORIES OF ICHIGO POP UP STORE（東京）",
+      "venue": "西武渋谷店 モヴィーダ館6F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-10-04",
+      "url": "https://estream-store.com/lp/BLEACH_TSOI_POPUP/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/bleach-the-stories-of-ichigo-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/bleach-tsoi-popup-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "バトル",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "西武渋谷店",
+          "q": "西武渋谷店"
+        }
+      ]
+    },
+    {
+      "id": "bleach-tsoi-shinsaibashi",
+      "work": "BLEACH",
+      "title": "BLEACH THE STORIES OF ICHIGO POP UP STORE（大阪）",
+      "venue": "心斎橋PARCO 9F イベントスペース",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-11-28",
+      "end": "2026-12-13",
+      "url": "https://estream-store.com/lp/BLEACH_TSOI_POPUP/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/bleach-the-stories-of-ichigo-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/bleach-tsoi-popup-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "バトル",
+        "PARCO",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "心斎橋PARCO",
+          "q": "心斎橋PARCO"
         }
       ]
     }
