@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-25",
+    "updated": "2026-08-26",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -4201,6 +4201,206 @@
         {
           "n": "心斎橋PARCO",
           "q": "心斎橋PARCO"
+        }
+      ]
+    },
+    {
+      "id": "digimon-eeo-asakusa",
+      "work": "デジモンアドベンチャー",
+      "title": "デジモンアドベンチャー POP UP CORNER（忍者)",
+      "venue": "Anime Culture Center by eeo（松屋浅草 3F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-29",
+      "end": "2026-09-11",
+      "url": "https://digimon-anime.com/news/2026080702/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/digimon-adventure-pop-up-corner-asakusa-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/digimon-adventure-pop-up-corner-asakusa-eyecatch.jpg",
+      "tags": [
+        "バトル",
+        "ゲーム",
+        "eeo"
+      ],
+      "map": [
+        {
+          "n": "Anime Culture Center by eeo（松屋浅草）",
+          "q": "松屋浅草"
+        }
+      ]
+    },
+    {
+      "id": "chi-medicos-shinjuku",
+      "work": "チ。―地球の運動について―",
+      "title": "アニメ『チ。 ―地球の運動について―』POP UP SHOP（東京）",
+      "venue": "MEDICOS SHOP 新宿（新宿マルイ アネックス 6F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-29",
+      "end": "2026-09-13",
+      "url": "https://www.medicos-e.net/newsdetail/anime_chi/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chi-popup-shop-medicos-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/chi-popup-shop-eyecatch.jpg",
+      "tags": [
+        "青年",
+        "歴史",
+        "巡回",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "MEDICOS SHOP 新宿",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "chi-abeno-rakubasu",
+      "work": "チ。―地球の運動について―",
+      "title": "アニメ『チ。 ―地球の運動について―』POP UP SHOP（大阪）",
+      "venue": "あべのHoop 4F アベノラクバス",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-10-24",
+      "end": "2026-11-01",
+      "url": "https://www.vitalartbox.info/anime-chi1024",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chi-popup-shop-medicos-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/chi-popup-shop-eyecatch.jpg",
+      "tags": [
+        "青年",
+        "歴史",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "あべのHoop",
+          "q": "あべのHoop"
+        }
+      ]
+    },
+    {
+      "id": "twst-birthday2026-shibuya-modi",
+      "work": "ディズニー ツイステッドワンダーランド",
+      "title": "『ディズニー ツイステッドワンダーランド』プレミアムバースデー2026 POP-UP SHOP in OIOI（東京）",
+      "venue": "渋谷モディ 7F マルイノアニメ",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://www.aniplex.co.jp/TW6thBDAnnivShop/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/twisted-wonderland-premium-birthday-popup-shop-oioi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/twisted-wonderland-premium-birthday2026-popup-oioi-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "巡回",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ"
+        }
+      ]
+    },
+    {
+      "id": "twst-birthday2026-namba-marui",
+      "work": "ディズニー ツイステッドワンダーランド",
+      "title": "『ディズニー ツイステッドワンダーランド』プレミアムバースデー2026 POP-UP SHOP in OIOI（大阪）",
+      "venue": "なんばマルイ 5F イベントスペース",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-18",
+      "end": "2026-10-04",
+      "url": "https://www.aniplex.co.jp/TW6thBDAnnivShop/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/twisted-wonderland-premium-birthday-popup-shop-oioi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/twisted-wonderland-premium-birthday2026-popup-oioi-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "巡回",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "なんばマルイ",
+          "q": "なんばマルイ"
+        }
+      ]
+    },
+    {
+      "id": "yominotsugai-shinjuku-annex",
+      "work": "黄泉のツガイ",
+      "title": "TVアニメ「黄泉のツガイ」POP UP SHOP Morning ver.",
+      "venue": "THEキャラSHOP（新宿マルイ アネックス 7F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-28",
+      "end": "2026-09-06",
+      "url": "https://the-chara.com/blog/?p=119665",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yominotsugai-popup-shop-shinjuku-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/yominotsugai-popup-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ファンタジー",
+        "THEキャラ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "pokkyokuten-tokyo-station",
+      "work": "ぽっきょくてん",
+      "title": "ぽっきょくてん POP-UP STORE × むにゅぐるみパティオ",
+      "venue": "東京駅一番街 東京キャラクターストリート G階段下ワゴン",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-28",
+      "end": "2026-09-10",
+      "url": "https://www.sanrio.co.jp/news/spots/pp-pop-up-store-20260821/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/pokkyokuten-pop-up-store-tokyo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/pokkyokuten-popup-store-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "サンリオ"
+      ],
+      "map": [
+        {
+          "n": "東京キャラクターストリート",
+          "q": "東京駅一番街 東京キャラクターストリート"
+        }
+      ]
+    },
+    {
+      "id": "toshidensetsu-kaitai-gamers-akiba",
+      "work": "都市伝説解体センター",
+      "title": "「都市伝説解体センター」POP UP SHOP",
+      "venue": "AKIHABARAゲーマーズ本店 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-01",
+      "end": "2026-09-27",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7812",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/toshi-densetsu-kaitai-center-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/toshi-densetsu-kaitai-center-popup-halloween-illustration.jpg",
+      "tags": [
+        "ゲーム",
+        "ミステリー",
+        "ゲーマーズ"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店"
         }
       ]
     }
