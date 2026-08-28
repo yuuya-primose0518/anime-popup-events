@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-27",
+    "updated": "2026-08-28",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -4748,6 +4748,521 @@
         {
           "n": "コトブキヤ秋葉原館",
           "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "rezero-emilia-shibuya-modi",
+      "work": "Re:ゼロから始める異世界生活",
+      "title": "Re:ゼロから始めるエミリアの誕生日生活2026 in マルイ（東京）",
+      "venue": "渋谷モディ 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-09-27",
+      "url": "https://bushiroad-creative.com/topics/102529/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/rezero-emilia-birthday-2026-marui/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/rezero-emilia-bd-2026-eyecatch.jpg",
+      "tags": [
+        "異世界",
+        "ラノベ",
+        "マルイ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ"
+        }
+      ]
+    },
+    {
+      "id": "rezero-emilia-kobe-marui",
+      "work": "Re:ゼロから始める異世界生活",
+      "title": "Re:ゼロから始めるエミリアの誕生日生活2026 in マルイ（兵庫）",
+      "venue": "神戸マルイ 4F",
+      "pref": "兵庫県",
+      "region": "関西",
+      "start": "2026-10-03",
+      "end": "2026-10-12",
+      "url": "https://bushiroad-creative.com/topics/102529/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/rezero-emilia-birthday-2026-marui/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/rezero-emilia-bd-2026-eyecatch.jpg",
+      "tags": [
+        "異世界",
+        "ラノベ",
+        "マルイ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "神戸マルイ",
+          "q": "神戸マルイ"
+        }
+      ]
+    },
+    {
+      "id": "virusweets-bandainamco-ikebukuro",
+      "work": "VIRUSWEETS",
+      "title": "VIRUSWEETS POP-UP STORE",
+      "venue": "バンダイナムコ Cross Store 東京（サンシャインシティ ワールドインポートマートビル 3F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-09",
+      "end": "2026-10-18",
+      "url": "https://gashapon.jp/virusweets/popup/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/virusweets-popup-store-tokyo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/virusweets-popup-store-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "ガシャポン"
+      ],
+      "map": [
+        {
+          "n": "バンダイナムコ Cross Store 東京",
+          "q": "バンダイナムコ Cross Store 東京 池袋"
+        }
+      ]
+    },
+    {
+      "id": "fujiya-sanrio-sunshine-alta",
+      "work": "サンリオキャラクターズ",
+      "title": "不二家 × サンリオキャラクターズ POPUPブース",
+      "venue": "サンシャインシティ アルタ 1F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-09",
+      "end": "2026-09-28",
+      "url": "https://www.sanrio.co.jp/news/spots/mx-fujiya-peko-popup-20260827/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/fujiya-sanrio-characters-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/fujiya-sanrio-popup-eyecatch.jpg",
+      "tags": [
+        "サンリオ",
+        "コラボ"
+      ],
+      "map": [
+        {
+          "n": "サンシャインシティ アルタ",
+          "q": "サンシャインシティ アルタ 池袋"
+        }
+      ]
+    },
+    {
+      "id": "revuestarlight-9th-atre-akiba",
+      "work": "少女☆歌劇 レヴュースタァライト",
+      "title": "少女☆歌劇 レヴュースタァライト 9周年記念 キャラポップストア",
+      "venue": "バンダイナムコ Cross Store アトレ秋葉原店 2F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-17",
+      "url": "https://bandainamco-am.co.jp/chara_shop/revuestarlight/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/revuestarlight-charapopstore-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/revuestarlight-charapopstore-eyecatch.jpg",
+      "tags": [
+        "少女",
+        "音楽",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "バンダイナムコ Cross Store アトレ秋葉原店",
+          "q": "バンダイナムコ Cross Store アトレ秋葉原"
+        }
+      ]
+    },
+    {
+      "id": "chimikemo-animate-nagoya",
+      "work": "ちみけもますこっと",
+      "title": "『ちみけもますこっと』POP UP SHOP in アニメイト",
+      "venue": "アニメイト名古屋",
+      "pref": "愛知県",
+      "region": "中部",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://www.animate.co.jp/onlyshop/48270/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chimikemo-mascot-popup-shop-animate-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/chimikemo-mascot-popup-animate-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋"
+        }
+      ]
+    },
+    {
+      "id": "mobpsycho100-hmv-ikebukuro",
+      "work": "モブサイコ100",
+      "title": "モブサイコ100 Ⅲ POP UP SHOP（東京）",
+      "venue": "HMV エソラ池袋 3F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://mobpsycho100-tablegame.anique.jp/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mobpsycho100-popup-shop-tablegame-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mobpsycho100-popup-tablegame-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ギャグ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "HMV エソラ池袋",
+          "q": "HMV エソラ池袋"
+        }
+      ]
+    },
+    {
+      "id": "mobpsycho100-hmv-namba",
+      "work": "モブサイコ100",
+      "title": "モブサイコ100 Ⅲ POP UP SHOP（大阪）",
+      "venue": "HMV&BOOKS NAMBA（なんばマルイ 7F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-25",
+      "end": "2026-10-04",
+      "url": "https://mobpsycho100-tablegame.anique.jp/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mobpsycho100-popup-shop-tablegame-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mobpsycho100-popup-tablegame-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ギャグ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS NAMBA",
+          "q": "HMV&BOOKS NAMBA なんばマルイ"
+        }
+      ]
+    },
+    {
+      "id": "mobpsycho100-hmv-hakata",
+      "work": "モブサイコ100",
+      "title": "モブサイコ100 Ⅲ POP UP SHOP（福岡）",
+      "venue": "HMV&BOOKS HAKATA（博多マルイ 6F）",
+      "pref": "福岡県",
+      "region": "九州・沖縄",
+      "start": "2026-10-16",
+      "end": "2026-10-25",
+      "url": "https://mobpsycho100-tablegame.anique.jp/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mobpsycho100-popup-shop-tablegame-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mobpsycho100-popup-tablegame-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ギャグ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS HAKATA",
+          "q": "HMV&BOOKS HAKATA 博多"
+        }
+      ]
+    },
+    {
+      "id": "merotabi-sanseido-ikebukuro",
+      "work": "メロとタビ",
+      "title": "メロとタビ 旅する本屋さん",
+      "venue": "三省堂書店 池袋本店 B1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-10-04",
+      "url": "https://tohan-art.jimdofree.com/merotabi-tabisuruhonyasan/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/merotabi-tabisuru-honyasan-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/merotabi-popup-eyecatch.jpg",
+      "tags": [
+        "ほのぼの",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "三省堂書店 池袋本店",
+          "q": "三省堂書店 池袋本店"
+        }
+      ]
+    },
+    {
+      "id": "breakmycase-yurakucho-marui",
+      "work": "ブレイクマイケース",
+      "title": "ブレマイ Special Show Room ストア in マルイ（東京）",
+      "venue": "有楽町マルイ 8F SPACE5",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://www.0101.co.jp/405/info/index.html?contents_id=1163",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/breakmycase-special-show-room-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/bb05532bc42dba957ec4c7ae4a2c8514.jpg",
+      "tags": [
+        "ゲーム",
+        "乙女ゲーム",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "有楽町マルイ",
+          "q": "有楽町マルイ"
+        }
+      ]
+    },
+    {
+      "id": "breakmycase-kobe-marui",
+      "work": "ブレイクマイケース",
+      "title": "ブレマイ Special Show Room ストア in マルイ（兵庫）",
+      "venue": "神戸マルイ 4F カレンダリウム",
+      "pref": "兵庫県",
+      "region": "関西",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://www.0101.co.jp/405/info/index.html?contents_id=1163",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/breakmycase-special-show-room-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/bb05532bc42dba957ec4c7ae4a2c8514.jpg",
+      "tags": [
+        "ゲーム",
+        "乙女ゲーム",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "神戸マルイ",
+          "q": "神戸マルイ"
+        }
+      ]
+    },
+    {
+      "id": "yofukashi-s2-bookfirst-nakano",
+      "work": "よふかしのうた",
+      "title": "よふかしのうた Season2 POPUP STORE - first friend -",
+      "venue": "ブックファースト 中野店 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-31",
+      "end": "2026-09-13",
+      "url": "https://tohan-art.jimdofree.com/content/%E3%82%88%E3%81%B5%E3%81%8B%E3%81%97%E3%81%AE%E3%81%86%E3%81%9F-%E6%9D%B1%E4%BA%AC/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yofukashi-no-uta-popup-store-nakano-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/yofukashi-no-uta-popup-nakano-2026-eyecatch.jpg",
+      "tags": [
+        "青年",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "ブックファースト 中野店",
+          "q": "ブックファースト 中野店"
+        }
+      ]
+    },
+    {
+      "id": "steinsgate-final-mission-akiba",
+      "work": "STEINS;GATE",
+      "title": "ポップアップイベント「STEINS;GATE ファイナルミッション」",
+      "venue": "ベルサール秋葉原 B1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-29",
+      "end": "2026-08-30",
+      "url": "https://collabo-cafe.com/events/collabo/steins-gate-final-mission-akihabara-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/steins-gate-final-mission-akihabara-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/steins-gate-final-mission-2026-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "SF"
+      ],
+      "map": [
+        {
+          "n": "ベルサール秋葉原",
+          "q": "ベルサール秋葉原"
+        }
+      ]
+    },
+    {
+      "id": "sakamotodays-seifuku-magnet",
+      "work": "SAKAMOTO DAYS",
+      "title": "SAKAMOTO DAYS POP UP STORE #制服DAYS",
+      "venue": "MAGNET by SHIBUYA109 5F JOL Collab Store",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-12",
+      "end": "2026-09-27",
+      "url": "https://magnetbyshibuya109.jp/shopnews/10806/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/sakamoto-days-seifuku-days-pop-up-store-shibuya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/sakamoto-days-seifukudays-2026-keyvisual.jpg",
+      "tags": [
+        "少年"
+      ],
+      "map": [
+        {
+          "n": "MAGNET by SHIBUYA109",
+          "q": "MAGNET by SHIBUYA109"
+        }
+      ]
+    },
+    {
+      "id": "nagano-market-nagoya-parco",
+      "work": "ナガノマーケット",
+      "title": "ナガノマーケット POP UP SHOP in 名古屋PARCO",
+      "venue": "名古屋PARCO 西館8F イベントスペース",
+      "pref": "愛知県",
+      "region": "中部",
+      "start": "2026-09-04",
+      "end": "2026-09-23",
+      "url": "https://nagano-info.jp/popupshop/nagoya_p/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/nagano-market-pop-up-shop-nagoya-parco-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/d2575976357c136d9a74e4a4cad64f35-1.jpeg",
+      "tags": [
+        "キャラクター",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "名古屋PARCO",
+          "q": "名古屋PARCO"
+        }
+      ]
+    },
+    {
+      "id": "drstone-taiwa-ueno-marui",
+      "work": "Dr.STONE",
+      "title": "Dr.STONE 対話 ver. ストア in マルイ（東京）",
+      "venue": "上野マルイ 5F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://www.the-chara.com/blog/?p=116427",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/dr-stone-pop-up-store-tokyo-osaka-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/040f59949d2e4c63d641aa3fe3fa9892.jpeg",
+      "tags": [
+        "少年",
+        "THEキャラ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "上野マルイ",
+          "q": "上野マルイ"
+        }
+      ]
+    },
+    {
+      "id": "drstone-taiwa-abeno-rakubasu",
+      "work": "Dr.STONE",
+      "title": "Dr.STONE 対話 ver. ストア in アベノラクバス（大阪）",
+      "venue": "あべのHoop 4F アベノラクバス",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://www.the-chara.com/blog/?p=116427",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/dr-stone-pop-up-store-tokyo-osaka-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/040f59949d2e4c63d641aa3fe3fa9892.jpeg",
+      "tags": [
+        "少年",
+        "THEキャラ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "あべのHoop",
+          "q": "あべのHoop"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-aeonmall-kagoshima",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in イオンモール KAGOSHIMA BAY",
+      "venue": "イオンモール KAGOSHIMA BAY 1F 風の広場",
+      "pref": "鹿児島県",
+      "region": "九州・沖縄",
+      "start": "2026-09-04",
+      "end": "2026-09-23",
+      "url": "https://chiikawa-info.jp/p26/pus_akgs/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-kagoshima-bay-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/045bf113f7277421c60d1c8007784a96.jpg",
+      "tags": [
+        "キャラクター"
+      ],
+      "map": [
+        {
+          "n": "イオンモール KAGOSHIMA BAY",
+          "q": "イオンモール KAGOSHIMA BAY 鹿児島"
+        }
+      ]
+    },
+    {
+      "id": "boueibu-eternal-thechara-ikebukuro",
+      "work": "美男高校地球防衛部",
+      "title": "劇場版「美男高校地球防衛部ETERNAL LOVE!」POP UP SHOP",
+      "venue": "THEキャラSHOP池袋店（池袋P'PARCO 3F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-03",
+      "end": "2026-09-16",
+      "url": "https://www.the-chara.com/blog/?p=119648",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/boueibu-eternal-love-popup-shop-ikebukuro-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/boueibu-eternal-love-popup-ikebukuro-eyecatch.jpg",
+      "tags": [
+        "ギャグ",
+        "劇場版",
+        "THEキャラ"
+      ],
+      "map": [
+        {
+          "n": "池袋P'PARCO",
+          "q": "池袋PARCO P'PARCO"
+        }
+      ]
+    },
+    {
+      "id": "coalowl-hmv-shibuya",
+      "work": "coalowl",
+      "title": "coalowl × HMV POP UP SHOP feat.ぶたさん",
+      "venue": "HMV&BOOKS SHIBUYA（渋谷モディ）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-23",
+      "url": "https://www.hmv.co.jp/news/article/260721115/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/coalowl-hmv-butasan-popup-shibuya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/coalowl-hmv-butasan-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "イラストレーター"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS SHIBUYA",
+          "q": "HMV&BOOKS SHIBUYA 渋谷"
         }
       ]
     }
