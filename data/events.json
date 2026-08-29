@@ -5811,6 +5811,106 @@
           "q": "新宿マルイ メン"
         }
       ]
+    },
+    {
+      "id": "taiari-kotobukiya-akihabara",
+      "work": "対ありでした。",
+      "title": "「対ありでした。 〜お嬢さまは格闘ゲームなんてしない〜」POP UP SHOP in コトブキヤ秋葉原館",
+      "venue": "コトブキヤ秋葉原館 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-29",
+      "end": "2026-09-13",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1331/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1331/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202608_taiari/banner.jpg",
+      "tags": [
+        "ラブコメ",
+        "ゲーム",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "taiari-kotobukiya-nipponbashi",
+      "work": "対ありでした。",
+      "title": "「対ありでした。 〜お嬢さまは格闘ゲームなんてしない〜」POP UP SHOP in コトブキヤ日本橋",
+      "venue": "コトブキヤ日本橋（大阪）",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-08-29",
+      "end": "2026-09-13",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1331/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1331/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202608_taiari/banner.jpg",
+      "tags": [
+        "ラブコメ",
+        "ゲーム",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ日本橋",
+          "q": "コトブキヤ日本橋 大阪"
+        }
+      ]
+    },
+    {
+      "id": "highschooldxd-kotobukiya-akiba",
+      "work": "ハイスクールD×D",
+      "title": "ハイスクールD×D HERO POP UP CORNER in コトブキヤ秋葉原館",
+      "venue": "コトブキヤ秋葉原館 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1295/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1295/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_HighSchoolDxD/banner.png",
+      "tags": [
+        "ラノベ",
+        "バトル",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "hikikomari-kotobukiya-akiba",
+      "work": "ひきこまり吸血姫の悶々",
+      "title": "TVアニメ『ひきこまり吸血姫の悶々』POP UP CORNER in コトブキヤ秋葉原館",
+      "venue": "コトブキヤ秋葉原館 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-07",
+      "end": "2026-10-16",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1332/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1332/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202610_hikikomari/banner.jpg",
+      "tags": [
+        "ラノベ",
+        "ファンタジー",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
     }
   ]
 }
