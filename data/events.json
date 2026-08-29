@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-28",
+    "updated": "2026-08-29",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -5263,6 +5263,347 @@
         {
           "n": "HMV&BOOKS SHIBUYA",
           "q": "HMV&BOOKS SHIBUYA 渋谷"
+        }
+      ]
+    },
+    {
+      "id": "date-a-live5-shizuoka-parco",
+      "work": "デート・ア・ライブ",
+      "title": "アニメ「デート・ア・ライブⅤ」POPUP SHOP in 静岡PARCO【&R】",
+      "venue": "静岡PARCO 6F 【&R】",
+      "pref": "静岡県",
+      "region": "中部",
+      "start": "2026-09-11",
+      "end": "2026-10-04",
+      "url": "http://www.seasonal-plants.co.jp/event/date-a-live5th_202609_POPUP/index.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/date-a-live-negligee-popup-store-parco2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/c857b164bf8693b39dc5fc5280842046.jpeg",
+      "tags": [
+        "ラノベ",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "静岡PARCO",
+          "q": "静岡PARCO"
+        }
+      ]
+    },
+    {
+      "id": "imassidem-teddys-shinjuku-annex",
+      "work": "アイドルマスター SideM",
+      "title": "アイドルマスター SideM Teddy's Collection Ver. POP UP STORE（東京）",
+      "venue": "新宿マルイ アネックス",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-13",
+      "url": "https://cs-front.co.jp/sidem_teddys_collection2/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/idolmaster-sidem-yeddys-collection-pop-up-store-tokyo-osaka-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/a7759cae560254a5c7f343db17d75c22.webp",
+      "tags": [
+        "アイドル",
+        "マルイ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "imassidem-teddys-namba-marui",
+      "work": "アイドルマスター SideM",
+      "title": "アイドルマスター SideM Teddy's Collection Ver. POP UP STORE（大阪）",
+      "venue": "なんばマルイ",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://cs-front.co.jp/sidem_teddys_collection2/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/idolmaster-sidem-yeddys-collection-pop-up-store-tokyo-osaka-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/a7759cae560254a5c7f343db17d75c22.webp",
+      "tags": [
+        "アイドル",
+        "マルイ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "なんばマルイ",
+          "q": "なんばマルイ"
+        }
+      ]
+    },
+    {
+      "id": "choppers-loft-shinjuku",
+      "work": "ONE PIECE",
+      "title": "CHOPPER's POP UP SHOP in ロフト（新宿）",
+      "venue": "新宿ロフト 3F バラエティ雑貨売場",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-21",
+      "end": "2026-10-11",
+      "url": "https://www.medicos-e.net/newsdetail/choppers/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/one-piece-choppers-popup-shop-loft-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/choppers-2026-schedule.jpg",
+      "tags": [
+        "少年",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "新宿ロフト",
+          "q": "新宿ロフト"
+        }
+      ]
+    },
+    {
+      "id": "choppers-loft-umeda",
+      "work": "ONE PIECE",
+      "title": "CHOPPER's POP UP SHOP in ロフト（大阪）",
+      "venue": "梅田ロフト 6F バラエティ雑貨売場",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-11-05",
+      "end": "2026-11-18",
+      "url": "https://www.medicos-e.net/newsdetail/choppers/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/one-piece-choppers-popup-shop-loft-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/choppers-2026-schedule.jpg",
+      "tags": [
+        "少年",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "梅田ロフト",
+          "q": "梅田ロフト"
+        }
+      ]
+    },
+    {
+      "id": "choppers-loft-sakae",
+      "work": "ONE PIECE",
+      "title": "CHOPPER's POP UP SHOP in ロフト（名古屋）",
+      "venue": "栄ロフト 6F バラエティ雑貨売場",
+      "pref": "愛知県",
+      "region": "中部",
+      "start": "2026-12-09",
+      "end": "2026-12-28",
+      "url": "https://www.medicos-e.net/newsdetail/choppers/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/one-piece-choppers-popup-shop-loft-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/choppers-2026-schedule.jpg",
+      "tags": [
+        "少年",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "栄ロフト",
+          "q": "栄ロフト 名古屋"
+        }
+      ]
+    },
+    {
+      "id": "choppers-loft-tenjin",
+      "work": "ONE PIECE",
+      "title": "CHOPPER's POP UP SHOP in ロフト（福岡）",
+      "venue": "天神ロフト 4F バラエティ雑貨売場",
+      "pref": "福岡県",
+      "region": "九州・沖縄",
+      "start": "2027-01-19",
+      "end": "2027-02-03",
+      "url": "https://www.medicos-e.net/newsdetail/choppers/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/one-piece-choppers-popup-shop-loft-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/choppers-2026-schedule.jpg",
+      "tags": [
+        "少年",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "天神ロフト",
+          "q": "天神ロフト"
+        }
+      ]
+    },
+    {
+      "id": "imascg-sweetmelty-shibuya",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "アイドルマスター シンデレラガールズ Sweet Melty Whip POP UP SHOP（東京）",
+      "venue": "MEDICOS SHOP 渋谷（MAGNET by SHIBUYA109 5階）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-10",
+      "end": "2026-09-23",
+      "url": "https://www.medicos-e.net/newsdetail/imas_cinderella_popup2/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/imascg-sweet-melty-whip-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/imascg-sweet-melty-whip-eyecatch.jpg",
+      "tags": [
+        "アイドル",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "MAGNET by SHIBUYA109",
+          "q": "MAGNET by SHIBUYA109"
+        }
+      ]
+    },
+    {
+      "id": "imascg-sweetmelty-abeno",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "アイドルマスター シンデレラガールズ Sweet Melty Whip POP UP SHOP（大阪）",
+      "venue": "あべのHoop 4F アベノラクバス",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-10-23",
+      "end": "2026-11-01",
+      "url": "https://www.vitalartbox.info/imascg1023",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/imascg-sweet-melty-whip-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/imascg-sweet-melty-whip-eyecatch.jpg",
+      "tags": [
+        "アイドル",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "あべのHoop",
+          "q": "あべのHoop"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-grandeuo-kamata",
+      "work": "ちいかわ",
+      "title": "ちいかわ ポップアップストア in グランデュオ蒲田",
+      "venue": "グランデュオ蒲田 3F 東西連絡通路",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-08",
+      "end": "2026-09-30",
+      "url": "https://chiikawa-info.jp/p26/pus_gdkm/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-grandeuo-kamata-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-15.jpeg",
+      "tags": [
+        "キャラクター"
+      ],
+      "map": [
+        {
+          "n": "グランデュオ蒲田",
+          "q": "グランデュオ蒲田"
+        }
+      ]
+    },
+    {
+      "id": "youzitsu-summerresort-gamers-akiba",
+      "work": "ようこそ実力至上主義の教室へ",
+      "title": "ようこそ実力至上主義の教室へ サマーリゾートver. ストア in ゲーマーズ",
+      "venue": "AKIHABARAゲーマーズ本店 7F／ゲーマーズオンライン",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-05",
+      "end": "2026-09-20",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7776",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/you-zitsu-popup-store-gamers-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/youzitsu-popup-eyecatch.jpg",
+      "tags": [
+        "ラノベ",
+        "ゲーマーズ"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店"
+        }
+      ]
+    },
+    {
+      "id": "adc-teradatera-shinjuku-annex",
+      "work": "The Amazing Digital Circus",
+      "title": "The Amazing Digital Circus × 寺田てら POP UP STORE",
+      "venue": "新宿マルイ アネックス 6F カレンダリウム5",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-05",
+      "end": "2026-09-13",
+      "url": "https://www.0101.co.jp/005/event/detail.html?article_seq=143801&article_type=sto",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/adc-terada-tera-popup-store-shinjuku-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/b7e1e3e9c3e8c74c4028d61d18d7d59a.jpeg",
+      "tags": [
+        "海外アニメ",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "spicewolf-medicos-shinjuku",
+      "work": "狼と香辛料",
+      "title": "「狼と香辛料 MERCHANT MEETS THE WISE WOLF」POP UP SHOP in MEDICOS SHOP新宿",
+      "venue": "MEDICOS SHOP 新宿（新宿マルイ アネックス 6F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-16",
+      "url": "https://www.medicos-e.net/newsdetail/2026_spice-and-wolf/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/spice-and-wolf-popup-medicos-shinjuku-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/spice-and-wolf-medicos-popup-eyecatch.jpg",
+      "tags": [
+        "ラノベ",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "chibimaruko-marukorou-ikebukuro",
+      "work": "ちびまる子ちゃん",
+      "title": "ちびまる子ちゃん POP UP SHOP MARUKO楼",
+      "venue": "JR池袋駅 南改札前",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-01",
+      "end": "2026-09-14",
+      "url": "https://www.chibimaru.tv/news/entry/2026/008414.html",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/chibimarukochan-maruko-rou-ikebukuro-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/83cb092359269b41bed768ca8c5d46f2.jpg",
+      "tags": [
+        "キャラクター",
+        "駅"
+      ],
+      "map": [
+        {
+          "n": "JR池袋駅 南改札",
+          "q": "JR池袋駅"
         }
       ]
     }
