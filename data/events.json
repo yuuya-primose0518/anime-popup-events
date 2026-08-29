@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-29",
+    "updated": "2026-08-30",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -5604,6 +5604,211 @@
         {
           "n": "JR池袋駅 南改札",
           "q": "JR池袋駅"
+        }
+      ]
+    },
+    {
+      "id": "nucarnival-shinjuku-marui",
+      "work": "NU: カーニバル",
+      "title": "NU: カーニバル ポップアップストア in 新宿",
+      "venue": "新宿マルイ アネックス 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-21",
+      "end": "2026-09-06",
+      "url": "https://twitter.com/GraSelect_PR",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/nucarnival-pop-up-store-shinjuku2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/99cffe9c7714f77a2c6e45318e633dca.jpeg",
+      "tags": [
+        "ゲーム",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-baby-omiya",
+      "work": "ちいかわ",
+      "title": "Chiikawa Baby POP UP SHOP in JR大宮駅",
+      "venue": "JR大宮駅 改札外 西口イベントスペース",
+      "pref": "埼玉県",
+      "region": "関東",
+      "start": "2026-09-02",
+      "end": "2026-09-09",
+      "url": "https://chiikawa-info.jp/p26/ck_baby/omiya/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-baby-popup-shop-jr-omiya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/9c2d3852db6baef624c38be0bd9d7499-11.jpeg",
+      "tags": [
+        "キャラクター",
+        "駅"
+      ],
+      "map": [
+        {
+          "n": "JR大宮駅",
+          "q": "JR大宮駅"
+        }
+      ]
+    },
+    {
+      "id": "zombielandsaga-loft-yokohama",
+      "work": "ゾンビランドサガ",
+      "title": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』POP UP SHOP in 横浜ロフト",
+      "venue": "横浜ロフト 7F バラエティ雑貨売場",
+      "pref": "神奈川県",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://event.amnibus.com/zombielandsaga-loft/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/zombielandsaga-loft/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/fb8b2be944ba3db979c1f75ca5913984.jpg",
+      "tags": [
+        "アイドル",
+        "劇場版",
+        "AMNIBUS",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "横浜ロフト",
+          "q": "横浜ロフト"
+        }
+      ]
+    },
+    {
+      "id": "zombielandsaga-loft-namba",
+      "work": "ゾンビランドサガ",
+      "title": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』POP UP SHOP in なんばロフト",
+      "venue": "なんばロフト 5F バラエティ雑貨売場",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://event.amnibus.com/zombielandsaga-loft/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/zombielandsaga-loft/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/fb8b2be944ba3db979c1f75ca5913984.jpg",
+      "tags": [
+        "アイドル",
+        "劇場版",
+        "AMNIBUS",
+        "ロフト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "なんばロフト",
+          "q": "なんばロフト"
+        }
+      ]
+    },
+    {
+      "id": "shingeki-tower-vol2-shinjuku",
+      "work": "進撃の巨人",
+      "title": "TVアニメ『進撃の巨人』POP UP SHOP in TOWER RECORDS vol.2（東京）",
+      "venue": "タワーレコード新宿店",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-11",
+      "end": "2026-09-21",
+      "url": "https://event.amnibus.com/shingeki-tower-vol2/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/shingeki-tower-vol2/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/eda542f7921c931915b1cad3b93a9906.jpg",
+      "tags": [
+        "少年",
+        "AMNIBUS",
+        "タワーレコード",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "タワーレコード新宿店",
+          "q": "タワーレコード新宿店"
+        }
+      ]
+    },
+    {
+      "id": "shingeki-tower-vol2-abeno",
+      "work": "進撃の巨人",
+      "title": "TVアニメ『進撃の巨人』POP UP SHOP in TOWER RECORDS vol.2（大阪）",
+      "venue": "タワーレコードあべのHoop店",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-11",
+      "end": "2026-09-21",
+      "url": "https://event.amnibus.com/shingeki-tower-vol2/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/shingeki-tower-vol2/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/eda542f7921c931915b1cad3b93a9906.jpg",
+      "tags": [
+        "少年",
+        "AMNIBUS",
+        "タワーレコード",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "タワーレコードあべのHoop店",
+          "q": "タワーレコード あべのHoop店"
+        }
+      ]
+    },
+    {
+      "id": "nijigaku-popup-street-ueno",
+      "work": "ラブライブ!虹ヶ咲学園スクールアイドル同好会",
+      "title": "『ラブライブ！虹ヶ咲学園スクールアイドル同好会』POP UP STREET in 上野・御徒町",
+      "venue": "上野マルイ 特設POP UP SHOP ほか 上野・御徒町エリア",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-07",
+      "end": "2026-10-25",
+      "url": "https://event.amnibus.com/lovelive-nijigasaki-ueno-okachimachi/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/lovelive-nijigasaki-ueno-okachimachi/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/38b7f3d4ca44d79c41ce73336b2a95c7.jpg",
+      "tags": [
+        "アイドル",
+        "音楽",
+        "AMNIBUS",
+        "商店街"
+      ],
+      "map": [
+        {
+          "n": "上野マルイ",
+          "q": "上野マルイ"
+        }
+      ]
+    },
+    {
+      "id": "hundredline-reo-shinjuku-marui",
+      "work": "HUNDRED LINE -最終防衛学園-",
+      "title": "『HUNDRED LINE -最終防衛学園-×REO』POP UP SHOP in マルイ",
+      "venue": "新宿マルイ メン 8F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-11",
+      "end": "2026-09-27",
+      "url": "https://event.amnibus.com/hundredline-0101-reo/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/hundredline-0101-reo/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/01f11837d1d3a4894b85e6a5030d4cdc.jpg",
+      "tags": [
+        "ゲーム",
+        "AMNIBUS",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ メン",
+          "q": "新宿マルイ メン"
         }
       ]
     }
