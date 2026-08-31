@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-31",
+    "updated": "2026-09-01",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -6307,6 +6307,204 @@
         {
           "n": "新宿マルイ アネックス",
           "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "aobuta-donki-fujisawa",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎は湘南藤沢メモリーガールの夢を見ない」POP UP SHOP（ドン・キホーテ 藤沢駅南口店）",
+      "venue": "ドン・キホーテ 藤沢駅南口店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/aobuta-donki-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-donki-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/e09289f683e956228cd2a5bbc4150ca1.jpg",
+      "tags": [
+        "ラノベ",
+        "青春",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ 藤沢駅南口店",
+          "q": "ドン・キホーテ 藤沢駅南口店"
+        }
+      ]
+    },
+    {
+      "id": "aobuta-donki-yokohama-nishiguchi",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎は湘南藤沢メモリーガールの夢を見ない」POP UP SHOP（ドン・キホーテ 横浜西口店）",
+      "venue": "ドン・キホーテ 横浜西口店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/aobuta-donki-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-donki-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/e09289f683e956228cd2a5bbc4150ca1.jpg",
+      "tags": [
+        "ラノベ",
+        "青春",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ 横浜西口店",
+          "q": "ドン・キホーテ 横浜西口店"
+        }
+      ]
+    },
+    {
+      "id": "aobuta-donki-kamata",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎は湘南藤沢メモリーガールの夢を見ない」POP UP SHOP（ドン・キホーテ 蒲田駅前店）",
+      "venue": "ドン・キホーテ 蒲田駅前店",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/aobuta-donki-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-donki-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/e09289f683e956228cd2a5bbc4150ca1.jpg",
+      "tags": [
+        "ラノベ",
+        "青春",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ 蒲田駅前店",
+          "q": "ドン・キホーテ 蒲田駅前店"
+        }
+      ]
+    },
+    {
+      "id": "aobuta-donki-kariba",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎は湘南藤沢メモリーガールの夢を見ない」POP UP SHOP（MEGAドン・キホーテ 狩場インター店）",
+      "venue": "MEGAドン・キホーテ 狩場インター店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/aobuta-donki-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-donki-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/e09289f683e956228cd2a5bbc4150ca1.jpg",
+      "tags": [
+        "ラノベ",
+        "青春",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "MEGAドン・キホーテ 狩場インター店",
+          "q": "MEGAドン・キホーテ 狩場インター店"
+        }
+      ]
+    },
+    {
+      "id": "aobuta-donki-picasso-ofuna",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎は湘南藤沢メモリーガールの夢を見ない」POP UP SHOP（ドン・キホーテ ピカソ大船店）",
+      "venue": "ドン・キホーテ ピカソ大船店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/aobuta-donki-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-donki-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/e09289f683e956228cd2a5bbc4150ca1.jpg",
+      "tags": [
+        "ラノベ",
+        "青春",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ ピカソ大船店",
+          "q": "ドン・キホーテ ピカソ大船店"
+        }
+      ]
+    },
+    {
+      "id": "mozibake-amnibus-storeblue",
+      "work": "文字化化",
+      "title": "『文字化化』POP UP SHOP in AMNIBUS STORE -blue-",
+      "venue": "AMNIBUS STORE -blue-（MAGNET by SHIBUYA109 5F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://store.amnibus.com/mozibake-storeblue/",
+      "url_kind": "特設",
+      "source": "https://store.amnibus.com/mozibake-storeblue/",
+      "img": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/4656bf38d97f7ab645c04463cfd67ea7.jpg",
+      "tags": [
+        "ゲーム",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "MAGNET by SHIBUYA109",
+          "q": "MAGNET by SHIBUYA109"
+        }
+      ]
+    },
+    {
+      "id": "machikadomazoku-yuko-medicos-shinjuku",
+      "work": "まちカドまぞく",
+      "title": "「まちカドまぞく」優子 Birthday 2026 POP UP SHOP in MEDICOS SHOP新宿",
+      "venue": "MEDICOS SHOP 新宿（新宿マルイ アネックス 6F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-17",
+      "end": "2026-09-29",
+      "url": "https://www.medicos-e.net/newsdetail/yuko_birthday_2026/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/yuko_birthday_2026/",
+      "img": "",
+      "tags": [
+        "日常",
+        "コメディ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "angelbeats-medicos-shibuya",
+      "work": "Angel Beats!",
+      "title": "「Angel Beats!」POP UP SHOP in MEDICOS SHOP渋谷",
+      "venue": "MEDICOS SHOP 渋谷（MAGNET by SHIBUYA109 5階）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-19",
+      "end": "2026-09-30",
+      "url": "https://www.medicos-e.net/newsdetail/angel-beats_kindergarten/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/angel-beats_kindergarten/",
+      "img": "",
+      "tags": [
+        "学園",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "MEDICOS SHOP 渋谷",
+          "q": "MAGNET by SHIBUYA109"
         }
       ]
     }
