@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-08-30",
+    "updated": "2026-08-31",
     "note": "全国のアニメ・マンガ関連ポップアップストア／期間限定ショップ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -5909,6 +5909,404 @@
         {
           "n": "コトブキヤ秋葉原館",
           "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "dandadan-medicos-shibuya",
+      "work": "ダンダダン",
+      "title": "TVアニメ『ダンダダン』POP UP SHOP（東京）",
+      "venue": "MEDICOS SHOP 渋谷（MAGNET by SHIBUYA109 5階）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-12",
+      "end": "2026-09-29",
+      "url": "https://www.medicos-e.net/newsdetail/anime_dandadan/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/dandadan-heisei-gyaru-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/dandadan-popup-shop-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "バトル",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "MEDICOS SHOP 渋谷",
+          "q": "MAGNET by SHIBUYA109"
+        }
+      ]
+    },
+    {
+      "id": "dandadan-abeno-rakubasu",
+      "work": "ダンダダン",
+      "title": "TVアニメ『ダンダダン』POP UP SHOP（大阪）",
+      "venue": "アベノラクバス（あべのHoop 4F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "url": "https://www.vitalartbox.info/dandadan1121/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/dandadan-heisei-gyaru-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/dandadan-popup-shop-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "バトル"
+      ],
+      "map": [
+        {
+          "n": "アベノラクバス（あべのHoop）",
+          "q": "あべのHoop"
+        }
+      ]
+    },
+    {
+      "id": "oshinoko-donut-gigo-akiba",
+      "work": "【推しの子】",
+      "title": "TVアニメ【推しの子】～Donut Pop Time!～",
+      "venue": "GiGO秋葉原5号館 5F Akib@ko",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-12",
+      "end": "2026-09-27",
+      "url": "https://au-coop.jp/pages/osk_gigo_2609",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/oshinoko-donut-pop-time-gigo-akihabara-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/oshinoko-donut-pop-time-eyecatch.jpg",
+      "tags": [
+        "青年",
+        "アイドル"
+      ],
+      "map": [
+        {
+          "n": "GiGO秋葉原5号館",
+          "q": "GiGO秋葉原5号館"
+        }
+      ]
+    },
+    {
+      "id": "xrossstars-1st-shibuya-tsutaya",
+      "work": "Xross Stars",
+      "title": "Xross Stars 1st Anniv. POP-UP STORE @SHIBUYA TSUTAYA",
+      "venue": "SHIBUYA TSUTAYA 1F IP SQUARE A",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-29",
+      "url": "https://1st-anniversary.xross-stars.com/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/xross-stars-1st-anniv-popup-shibuya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/xrossstars-1st-anniv-popup-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk2077-ikebukuro-parco",
+      "work": "サイバーパンク2077",
+      "title": "サイバーパンク2077 POP UP STORE",
+      "venue": "池袋PARCO 本館6F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-14",
+      "url": "https://geekshop.infolens.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/cyberpunk2077-popup-store-ikebukuro-parco-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/cyberpunk2077-popup-2026-keyvisual.jpg",
+      "tags": [
+        "ゲーム",
+        "SF",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "池袋PARCO 本館",
+          "q": "池袋PARCO"
+        }
+      ]
+    },
+    {
+      "id": "chainsawman-reze-ueno-marui",
+      "work": "チェンソーマン",
+      "title": "劇場版「チェンソーマン レゼ篇」POP UP SHOP in OIOI（上野）",
+      "venue": "上野マルイ 5F カレンダリウム",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://www.0101.co.jp/058/event/detail.html?article_seq=144249&article_type=sto",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chainsawman-reze-popup-shop-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/chainsawman-reze-marui-2026-keyvisual.jpg",
+      "tags": [
+        "少年",
+        "バトル",
+        "マルイ",
+        "劇場版"
+      ],
+      "map": [
+        {
+          "n": "上野マルイ",
+          "q": "上野マルイ"
+        }
+      ]
+    },
+    {
+      "id": "chainsawman-reze-kobe-marui",
+      "work": "チェンソーマン",
+      "title": "劇場版「チェンソーマン レゼ篇」POP UP SHOP in OIOI（神戸）",
+      "venue": "神戸マルイ 5F カレンダリウム",
+      "pref": "兵庫県",
+      "region": "関西",
+      "start": "2026-10-03",
+      "end": "2026-10-12",
+      "url": "https://www.0101.co.jp/058/event/detail.html?article_seq=144249&article_type=sto",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chainsawman-reze-popup-shop-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/chainsawman-reze-marui-2026-keyvisual.jpg",
+      "tags": [
+        "少年",
+        "バトル",
+        "マルイ",
+        "劇場版"
+      ],
+      "map": [
+        {
+          "n": "神戸マルイ",
+          "q": "神戸マルイ"
+        }
+      ]
+    },
+    {
+      "id": "gochiusa-donki-sapporo",
+      "work": "ご注文はうさぎですか?",
+      "title": "ご注文はうさぎですか? POP UP SHOP フルール・ド・ラパンへようこそ（MEGAドン・キホーテ札幌狸小路本店）",
+      "venue": "MEGAドン・キホーテ札幌狸小路本店",
+      "pref": "北海道",
+      "region": "北海道",
+      "start": "2026-09-11",
+      "end": "2026-09-25",
+      "url": "https://www.donki.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/gochiusa-fleur-du-lapin-popup-donki-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gochiusa-donki-2026-keyvisual.jpg",
+      "tags": [
+        "日常",
+        "ほのぼの",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "MEGAドン・キホーテ札幌狸小路本店",
+          "q": "MEGAドン・キホーテ札幌狸小路本店"
+        }
+      ]
+    },
+    {
+      "id": "gochiusa-donki-akiba",
+      "work": "ご注文はうさぎですか?",
+      "title": "ご注文はうさぎですか? POP UP SHOP フルール・ド・ラパンへようこそ（ドン・キホーテ秋葉原店）",
+      "venue": "ドン・キホーテ秋葉原店",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-11",
+      "end": "2026-09-25",
+      "url": "https://www.donki.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/gochiusa-fleur-du-lapin-popup-donki-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gochiusa-donki-2026-keyvisual.jpg",
+      "tags": [
+        "日常",
+        "ほのぼの",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ秋葉原店",
+          "q": "ドン・キホーテ秋葉原店"
+        }
+      ]
+    },
+    {
+      "id": "gochiusa-donki-namba",
+      "work": "ご注文はうさぎですか?",
+      "title": "ご注文はうさぎですか? POP UP SHOP フルール・ド・ラパンへようこそ（ドン・キホーテなんば千日前店）",
+      "venue": "ドン・キホーテなんば千日前店",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-11",
+      "end": "2026-09-25",
+      "url": "https://www.donki.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/gochiusa-fleur-du-lapin-popup-donki-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gochiusa-donki-2026-keyvisual.jpg",
+      "tags": [
+        "日常",
+        "ほのぼの",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテなんば千日前店",
+          "q": "ドン・キホーテなんば千日前店"
+        }
+      ]
+    },
+    {
+      "id": "gochiusa-donki-tenjin",
+      "work": "ご注文はうさぎですか?",
+      "title": "ご注文はうさぎですか? POP UP SHOP フルール・ド・ラパンへようこそ（ドン・キホーテ天神西通り店）",
+      "venue": "ドン・キホーテ天神西通り店",
+      "pref": "福岡県",
+      "region": "九州・沖縄",
+      "start": "2026-09-11",
+      "end": "2026-09-25",
+      "url": "https://www.donki.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/gochiusa-fleur-du-lapin-popup-donki-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gochiusa-donki-2026-keyvisual.jpg",
+      "tags": [
+        "日常",
+        "ほのぼの",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ドン・キホーテ天神西通り店",
+          "q": "ドン・キホーテ天神西通り店"
+        }
+      ]
+    },
+    {
+      "id": "tamagotchi-30th-arche-omiya",
+      "work": "たまごっち",
+      "title": "みんなしゅ～ご～! たまごっちのおみせ in アルシェ大宮",
+      "venue": "アルシェ大宮 2F 特設会場イベントスペース",
+      "pref": "埼玉県",
+      "region": "関東",
+      "start": "2026-09-04",
+      "end": "2026-09-23",
+      "url": "https://marimocraft.co.jp/event/tmg0904/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/tamagotchi-30th-popup-store-arche-omiya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/tamagotchi-30th-popup-omiya-2026-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "アルシェ大宮",
+          "q": "アルシェ 大宮"
+        }
+      ]
+    },
+    {
+      "id": "nisekoi-15th-shinjuku-annex",
+      "work": "ニセコイ",
+      "title": "『ニセコイ』15周年記念POP UP SHOP",
+      "venue": "新宿マルイ アネックス 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-09-27",
+      "url": "https://www.0101.co.jp/005/event/detail.html?article_seq=144122&article_type=sto",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/nisekoi-15th-anniversary-pop-up-shop-shinjuku-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/nisekoi-15th-popup-shop-2026-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ラブコメ",
+        "マルイ",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "imascg-magicalcheers-kotobukiya-akiba",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "POP UP SHOP A MAGICAL CHEERS in コトブキヤ秋葉原館",
+      "venue": "コトブキヤ秋葉原館 5F コトブキヤベース・アキバ",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-21",
+      "end": "2026-09-06",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1258/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1258/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202608_sousennkyo/kv.png",
+      "tags": [
+        "アイドル",
+        "ゲーム",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "katamari-medicos-shibuya",
+      "work": "塊魂",
+      "title": "『塊魂』POP UP SHOP in MEDICOS SHOP渋谷",
+      "venue": "MEDICOS SHOP 渋谷（MAGNET by SHIBUYA109 5階）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-01",
+      "end": "2026-10-13",
+      "url": "https://www.medicos-e.net/newsdetail/katamariseries/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/katamariseries/",
+      "img": "",
+      "tags": [
+        "ゲーム",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "MEDICOS SHOP 渋谷",
+          "q": "MAGNET by SHIBUYA109"
+        }
+      ]
+    },
+    {
+      "id": "bonbondrop-shinjuku-annex",
+      "work": "ボンボンドロップ",
+      "title": "ボンボンドロップシール ストア in 新宿マルイ アネックス",
+      "venue": "新宿マルイ アネックス",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-28",
+      "end": "2026-09-06",
+      "url": "https://www.0101.co.jp/405/info/index.html?contents_id=1108",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/bonbon-drop-sticker-popup-store2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/f9c6d5929f2cc64221720f96c11e1565.jpg",
+      "tags": [
+        "キャラクター",
+        "マルイ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス"
         }
       ]
     }
