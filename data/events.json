@@ -10675,6 +10675,520 @@
           "q": "天神ロフト"
         }
       ]
+    },
+    {
+      "id": "milgram-shiokaze-storegreen",
+      "work": "MILGRAM -ミルグラム-",
+      "title": "『MILGRAM -ミルグラム-』POP UP SHOP vol.3 in AMNIBUS STORE -green-",
+      "venue": "AMNIBUS STORE -green-（渋谷モディ 3F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-10-25",
+      "url": "https://store.amnibus.com/milgram-storegreen-vol3/",
+      "url_kind": "特設",
+      "source": "https://store.amnibus.com/milgram-storegreen-vol3/",
+      "img": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/f8ab85d4b380b8f01598efae03b9c9f7-1.jpg",
+      "tags": [
+        "POP UP",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "AMNIBUS STORE -green-（渋谷モディ 3F）",
+          "q": "渋谷モディ 3F"
+        }
+      ]
+    },
+    {
+      "id": "milgram-yumepuchi-storewhite",
+      "work": "MILGRAM -ミルグラム-",
+      "title": "『MILGRAM -ミルグラム-』ゆめぷち POP UP SHOP in AMNIBUS STORE -white-",
+      "venue": "AMNIBUS STORE -white-（渋谷モディ 4F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-18",
+      "end": "2026-10-04",
+      "url": "https://store.amnibus.com/milgram-storewhite-yumepuchi/",
+      "url_kind": "特設",
+      "source": "https://store.amnibus.com/milgram-storewhite-yumepuchi/",
+      "img": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/daf97f2627b0be3fb53cfe94c4eb8c1d.jpg",
+      "tags": [
+        "POP UP",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "AMNIBUS STORE -white-（渋谷モディ 4F）",
+          "q": "渋谷モディ 4F"
+        }
+      ]
+    },
+    {
+      "id": "disney-market-jr-kyoto",
+      "work": "ディズニー",
+      "title": "Disney THE MARKET 2026 in 京都",
+      "venue": "ジェイアール京都伊勢丹 10階 催物場",
+      "pref": "京都府",
+      "region": "関西",
+      "start": "2026-09-16",
+      "end": "2026-10-05",
+      "url": "https://dtm-official.jp/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/disney-the-market-jr-kyoto-isetan-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/4a9f96da4aa11352b0ef2ceb4490a115.jpeg",
+      "tags": [
+        "POP UP",
+        "百貨店催事"
+      ],
+      "map": [
+        {
+          "n": "ジェイアール京都伊勢丹",
+          "q": "ジェイアール京都伊勢丹"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-yagihashi-kumagaya",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE",
+      "venue": "八木橋百貨店 7階 催事場",
+      "pref": "埼玉県",
+      "region": "関東",
+      "start": "2026-09-16",
+      "end": "2026-09-28",
+      "url": "https://chiikawa-info.jp/p26/pus_yghs/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-yagihashi-fkd-utsunomiya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-17.jpeg",
+      "tags": [
+        "POP UP",
+        "百貨店催事"
+      ],
+      "map": [
+        {
+          "n": "八木橋百貨店",
+          "q": "八木橋百貨店 熊谷"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-fkd-utsunomiya",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE",
+      "venue": "FKD宇都宮店 3階 大催事会場",
+      "pref": "栃木県",
+      "region": "関東",
+      "start": "2026-09-16",
+      "end": "2026-09-28",
+      "url": "https://chiikawa-info.jp/p26/pus_utnm/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-yagihashi-fkd-utsunomiya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-17.jpeg",
+      "tags": [
+        "POP UP",
+        "百貨店催事"
+      ],
+      "map": [
+        {
+          "n": "FKD宇都宮店",
+          "q": "FKD宇都宮"
+        }
+      ]
+    },
+    {
+      "id": "inazuma-victoryroad-medicos-shinjuku",
+      "work": "イナズマイレブン",
+      "title": "「イナズマイレブン 英雄たちのヴィクトリーロード」POP UP SHOP",
+      "venue": "MEDICOS SHOP新宿（新宿マルイ アネックス 6F）",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-15",
+      "end": "2026-09-28",
+      "url": "https://www.medicos-e.net/newsdetail/inazumavictory-road/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/inazuma-eleven-victory-road-popupshop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/inazuma-eleven-victory-road-popupshop-eyecatch.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "MEDICOS SHOP新宿",
+          "q": "新宿マルイ アネックス"
+        }
+      ]
+    },
+    {
+      "id": "inazuma-victoryroad-abenoraku",
+      "work": "イナズマイレブン",
+      "title": "「イナズマイレブン 英雄たちのヴィクトリーロード」POP UP SHOP",
+      "venue": "アベノラクバス（あべのHoop）",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-10-23",
+      "end": "2026-11-01",
+      "url": "https://www.vitalartbox.info/inazuma1023/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/inazuma-eleven-victory-road-popupshop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/inazuma-eleven-victory-road-popupshop-eyecatch.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "アベノラクバス（あべのHoop）",
+          "q": "あべのHoop"
+        }
+      ]
+    },
+    {
+      "id": "watatabe-popup-gamers-akiba",
+      "work": "私を喰べたい、ひとでなし",
+      "title": "TVアニメ「私を喰べたい、ひとでなし」POP UP STORE",
+      "venue": "AKIHABARAゲーマーズ本店 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-12",
+      "end": "2026-09-27",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7840",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/watatabe-popup-store-gamers-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/watatabe-popup-eyecatch.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店"
+        }
+      ]
+    },
+    {
+      "id": "oregairu-kan-gamers",
+      "work": "やはり俺の青春ラブコメはまちがっている。完",
+      "title": "「やはり俺の青春ラブコメはまちがっている。完」ポップアップストア",
+      "venue": "AKIHABARAゲーマーズ本店ほか全4店舗（巡回）",
+      "pref": "全国",
+      "region": "全国",
+      "start": "2026-09-12",
+      "end": "2026-09-27",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7799",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/oregairu-kan-popup-store-gamers-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/oregairu-popup-eyecatch.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店"
+        },
+        {
+          "n": "ゲーマーズなんば店",
+          "q": "ゲーマーズなんば店"
+        },
+        {
+          "n": "ゲーマーズ名古屋店",
+          "q": "ゲーマーズ名古屋店"
+        },
+        {
+          "n": "ゲーマーズ仙台店",
+          "q": "ゲーマーズ仙台店"
+        }
+      ]
+    },
+    {
+      "id": "azurlane-9th-shibuya-tsutaya",
+      "work": "アズールレーン",
+      "title": "『アズールレーン』POP UP SHOP in SHIBUYA TSUTAYA",
+      "venue": "SHIBUYA TSUTAYA 6階 IP書店",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-12",
+      "end": "2026-10-07",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2616.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/azurlane-popup-shop-shibuya-tsutaya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/azurlane-popup-tsutaya-eyecatch.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA"
+        }
+      ]
+    },
+    {
+      "id": "wishmemell-tokyoeki-1bangai",
+      "work": "ウィッシュミーメル",
+      "title": "ウィッシュミーメル POP-UP STORE×むにゅぐるみパティオ",
+      "venue": "東京駅一番街 東京キャラクターストリート G階段下ワゴン",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-11",
+      "end": "2026-09-24",
+      "url": "https://munyugurumi.jp/news",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/wishmemell-popup-store-tokyo-station-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/205cb01e0037b18d887c018a9878919b.jpeg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "東京駅一番街",
+          "q": "東京駅一番街 東京キャラクターストリート"
+        }
+      ]
+    },
+    {
+      "id": "kagurabachi-fair-jumpshop-2026",
+      "work": "カグラバチ",
+      "title": "カグラバチフェア2026",
+      "venue": "JUMP SHOP 全国16店舗（巡回）",
+      "pref": "全国",
+      "region": "全国",
+      "start": "2026-09-11",
+      "end": "2026-09-27",
+      "url": "https://jumpshop-online.com/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/kagurabachi-fair-jumpshop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/16d990bc01e0891b4b3d822a6be77a9e.jpg",
+      "tags": [
+        "フェア"
+      ],
+      "map": [
+        {
+          "n": "JUMP SHOP 札幌店",
+          "q": "JUMP SHOP 札幌"
+        },
+        {
+          "n": "JUMP SHOP 仙台店",
+          "q": "JUMP SHOP 仙台"
+        },
+        {
+          "n": "JUMP SHOP 東京ドームシティ店",
+          "q": "JUMP SHOP 東京ドームシティ"
+        },
+        {
+          "n": "JUMP SHOP 東京駅店",
+          "q": "JUMP SHOP 東京駅"
+        },
+        {
+          "n": "JUMP SHOP 東京スカイツリータウン・ソラマチ店",
+          "q": "JUMP SHOP 東京スカイツリータウン"
+        },
+        {
+          "n": "JUMP SHOP 渋谷店",
+          "q": "JUMP SHOP 渋谷"
+        },
+        {
+          "n": "JUMP SHOP 池袋店",
+          "q": "JUMP SHOP 池袋"
+        },
+        {
+          "n": "JUMP SHOP 横浜店",
+          "q": "JUMP SHOP 横浜"
+        },
+        {
+          "n": "JUMP SHOP 名古屋店",
+          "q": "JUMP SHOP 名古屋"
+        },
+        {
+          "n": "JUMP SHOP 大阪梅田店",
+          "q": "JUMP SHOP 大阪梅田"
+        },
+        {
+          "n": "JUMP SHOP 大阪心斎橋店",
+          "q": "JUMP SHOP 心斎橋"
+        },
+        {
+          "n": "JUMP SHOP 大阪天王寺店",
+          "q": "JUMP SHOP 天王寺"
+        },
+        {
+          "n": "JUMP SHOP 岡山店",
+          "q": "JUMP SHOP 岡山"
+        },
+        {
+          "n": "JUMP SHOP 広島店",
+          "q": "JUMP SHOP 広島"
+        },
+        {
+          "n": "JUMP SHOP 福岡店",
+          "q": "JUMP SHOP 福岡"
+        },
+        {
+          "n": "JUMP SHOP ららぽーと福岡店",
+          "q": "JUMP SHOP ららぽーと福岡"
+        }
+      ]
+    },
+    {
+      "id": "shugochara-tokyoeki-1bangai",
+      "work": "しゅごキャラ!",
+      "title": "TVアニメ『しゅごキャラ!』POP UP STORE in 東京駅",
+      "venue": "東京駅一番街 B1F 東京キャラクターストリート K階段下ワゴン",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-25",
+      "end": "2026-10-01",
+      "url": "https://shugochara-goods.fuuuu.shop/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/shugo-chara-pop-up-store-tokyoeki-1bangai-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/1c304425b22c4fa404ff295494fb743b.jpeg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "東京駅一番街",
+          "q": "東京駅一番街 東京キャラクターストリート"
+        }
+      ]
+    },
+    {
+      "id": "stellasora-mizugi-ebisubashi",
+      "work": "ステラソラ",
+      "title": "ステラソラ 水着Ver. ストア in 大阪",
+      "venue": "TSUTAYA EBISUBASHI B1階 大阪 IP書店",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-09-08",
+      "end": "2026-09-30",
+      "url": "https://shibuyatsutaya.tsite.jp/ebisubashi/article/2618.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/stellasora-pop-up-store-ebisubashi-tsutaya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/af54e0aae0d07f4e4c680704a66aa7bd.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "TSUTAYA EBISUBASHI",
+          "q": "TSUTAYA EBISUBASHI 大阪"
+        }
+      ]
+    },
+    {
+      "id": "noisaga-2nd-kotobukiya-akiba",
+      "work": "銀河英雄伝説 Die Neue Saga",
+      "title": "『銀河英雄伝説 Die Neue Saga』2周年記念POP UP SHOP in コトブキヤ",
+      "venue": "コトブキヤ秋葉原館 2F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-09",
+      "end": "2026-10-25",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1351/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1351/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_noisaga/banner.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "imas-opera-seria-kotobukiya-akiba",
+      "work": "アイドルマスター",
+      "title": "POP UP SHOP「オペラセリア」",
+      "venue": "コトブキヤ秋葉原館 5Fイベントフロア「コトブキヤベース・アキバ」",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-09-11",
+      "end": "2026-09-27",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1333/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1333/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_siyouhuka/kv1.png",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館"
+        }
+      ]
+    },
+    {
+      "id": "bungosd-wan2-animate-ikebukuro",
+      "work": "文豪ストレイドッグス",
+      "title": "TVアニメ『文豪ストレイドッグス わん！２』オンリーショップ in アニメイト池袋本店",
+      "venue": "アニメイト池袋本店 3F わくわくスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-10-03",
+      "end": "2026-10-18",
+      "url": "https://www.animate.co.jp/onlyshop/48774/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48774/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1787203054-012267724d0ea25d3c53b82ef079b8bf.jpg",
+      "tags": [
+        "オンリーショップ"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店"
+        }
+      ]
+    },
+    {
+      "id": "disney-sparkling-stars-animate-ikebukuro",
+      "work": "ディズニー スパークリンク・スターズ",
+      "title": "『ディズニー スパークリンク・スターズ』「Debut!」POP UP STORE",
+      "venue": "アニメイト池袋本店 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "start": "2026-08-28",
+      "end": "2026-09-13",
+      "url": "https://www.animate.co.jp/onlyshop/48926/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48926/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1787545880-079a8add4c740eab491dad1a0787c302.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店"
+        }
+      ]
+    },
+    {
+      "id": "disney-sparkling-stars-animate-nipponbashi",
+      "work": "ディズニー スパークリンク・スターズ",
+      "title": "『ディズニー スパークリンク・スターズ』「Debut!」POP UP STORE",
+      "venue": "アニメイト大阪日本橋店",
+      "pref": "大阪府",
+      "region": "関西",
+      "start": "2026-08-28",
+      "end": "2026-09-13",
+      "url": "https://www.animate.co.jp/onlyshop/48926/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48926/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1787545880-079a8add4c740eab491dad1a0787c302.jpg",
+      "tags": [
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋"
+        }
+      ]
     }
   ]
 }
