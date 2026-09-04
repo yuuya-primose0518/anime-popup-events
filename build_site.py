@@ -64,7 +64,9 @@ def jsonld(events):
                 "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
                 "location": {"@type": "Place", "name": e['venue'],
                              "address": {"@type": "PostalAddress",
-                                         "addressRegion": e['pref'], "addressCountry": "JP"}},
+                                         # 複数会場のイベントは prefs の先頭を代表とする
+                                         "addressRegion": (e.get('prefs') or [e['pref']])[0],
+                                         "addressCountry": "JP"}},
                 "url": e['url'],
                 "about": e['work'],
             }})

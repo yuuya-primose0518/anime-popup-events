@@ -57,11 +57,44 @@ for (const k of ['live','soon','done'])
   document.getElementById('n-'+k).textContent = evs.filter(e=>e.st===k).length;
 document.getElementById('n-work').textContent = new Set(evs.map(e=>e.work)).size;
 
-/* ---- region select ---- */
+/* ---- 開催地 ----
+   1レコードが複数の会場＝複数の都道府県を持ちうる。regions / prefs は配列。
+   古い形式（region / pref のみ）のデータでも動くようにフォールバックする。 */
 const RO = ['北海道','東北','関東','中部','関西','中国','四国','九州・沖縄','全国'];
-const sel = document.getElementById('region');
-[...new Set(evs.map(e=>e.region))].sort((a,b)=>RO.indexOf(a)-RO.indexOf(b))
-  .forEach(r=>{ const o=document.createElement('option'); o.value=r; o.textContent='地域：'+r; sel.appendChild(o); });
+const REGION_PREFS = {
+  '北海道':   ['北海道'],
+  '東北':     ['青森県','岩手県','宮城県','秋田県','山形県','福島県'],
+  '関東':     ['茨城県','栃木県','群馬県','埼玉県','千葉県','東京都','神奈川県'],
+  '中部':     ['新潟県','富山県','石川県','福井県','山梨県','長野県','岐阜県','静岡県','愛知県'],
+  '関西':     ['三重県','滋賀県','京都府','大阪府','兵庫県','奈良県','和歌山県'],
+  '中国':     ['鳥取県','島根県','岡山県','広島県','山口県'],
+  '四国':     ['徳島県','香川県','愛媛県','高知県'],
+  '九州・沖縄':['福岡県','佐賀県','長崎県','熊本県','大分県','宮崎県','鹿児島県','沖縄県'],
+  '全国':     ['全国'],
+};
+const PO = RO.flatMap(r=>REGION_PREFS[r]);
+const P2R = Object.fromEntries(RO.flatMap(r=>REGION_PREFS[r].map(p=>[p,r])));
+const regionsOf = e => (Array.isArray(e.regions) && e.regions.length) ? e.regions : [e.region];
+const prefsOf   = e => (Array.isArray(e.prefs)   && e.prefs.length)   ? e.prefs   : [e.pref];
+/* 「全国」のイベントはどの地域で絞り込んでも出す */
+const inRegion = (e,r) => !r || regionsOf(e).includes(r) || regionsOf(e).includes('全国');
+const inPref   = (e,p) => !p || prefsOf(e).includes(p)   || prefsOf(e).includes('全国');
+
+const sel  = document.getElementById('region');
+const selP = document.getElementById('pref');
+const ALL_REGIONS = [...new Set(evs.flatMap(regionsOf))].sort((a,b)=>RO.indexOf(a)-RO.indexOf(b));
+ALL_REGIONS.forEach(r=>{ const o=document.createElement('option'); o.value=r; o.textContent='地域：'+r; sel.appendChild(o); });
+
+/* 都道府県セレクトは、選択中の地域に含まれるものだけに絞る */
+function fillPrefs(){
+  const keep = selP.value;
+  const list = [...new Set(evs.flatMap(prefsOf))]
+    .filter(p => p && (!L.region || P2R[p]===L.region || p==='全国'))
+    .sort((a,b)=>PO.indexOf(a)-PO.indexOf(b));
+  selP.innerHTML = '<option value="">都道府県：すべて</option>' +
+    list.map(p=>`<option value="${esc(p)}">都道府県：${esc(p)}</option>`).join('');
+  if (list.includes(keep)) selP.value = keep; else { selP.value=''; L.pref=''; }
+}
 
 /* ---- キービジュアル ----
    img が空、または読み込みに失敗した場合は、作品名から決定的に生成した
@@ -79,6 +112,12 @@ function visual(e, cls){
 }
 
 /* ---- card ---- */
+/* 開催地の表示：都道府県は4つまで並べ、超えたら「ほか N 県」。地域も並記する。 */
+function areaLabel(e){
+  const ps = prefsOf(e), rs = regionsOf(e);
+  const head = ps.length<=4 ? ps.join('・') : ps.slice(0,4).join('・') + ` ほか${ps.length-4}県`;
+  return rs.length===1 && ps.length===1 && ps[0]===rs[0] ? head : `${head}（${rs.join('／')}）`;
+}
 const mapURL = q => 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(q);
 function mapRow(e){
   const m = e.map || [];
@@ -101,7 +140,7 @@ function cardHTML(e, opt={}){
     <div class="meta">
       <div><span class="ico">📅</span><span class="date">${fmt(e.start)} – ${fmt(e.end)}</span></div>
       <div><span class="ico">📍</span><span>${esc(e.venue)}</span></div>
-      <div><span class="ico">🗾</span><span>${esc(e.pref)}・${esc(e.region)}</span></div>
+      <div><span class="ico">🗾</span><span>${esc(areaLabel(e))}</span></div>
       ${mapRow(e)}
     </div>
     <div class="tags">${e.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
@@ -109,12 +148,19 @@ function cardHTML(e, opt={}){
 }
 
 /* ================= LIST VIEW ================= */
-let L = {s:'live', region:'', q:'', sort:'start'};
+let L = {s:'live', region:'', pref:'', q:'', sort:'start'};
+/* フリーワードの対象：作品名・イベント名・会場名・全会場のマップ表示名・全都道府県・地域・タグ */
+const haystack = e => (
+  e.work+' '+e.title+' '+e.venue+' '+
+  (e.map||[]).map(m=>m.n).join(' ')+' '+
+  prefsOf(e).join(' ')+' '+regionsOf(e).join(' ')+' '+e.tags.join(' ')
+).toLowerCase();
 function renderList(){
   let list = evs.filter(e=>
     (L.s==='all' || e.st===L.s) &&
-    (!L.region || e.region===L.region) &&
-    (!L.q || (e.work+' '+e.title+' '+e.venue+' '+e.pref+' '+e.tags.join(' ')).toLowerCase().includes(L.q))
+    inRegion(e, L.region) &&
+    inPref(e, L.pref) &&
+    (!L.q || haystack(e).includes(L.q))
   );
   const cmp = {
     start:(a,b)=>a.start.localeCompare(b.start)||a.end.localeCompare(b.end),
@@ -132,7 +178,9 @@ document.getElementById('tabs').addEventListener('click', ev=>{
   [...document.querySelectorAll('.tab')].forEach(t=>t.setAttribute('aria-selected', t===b));
   L.s = b.dataset.s; renderList();
 });
-sel.addEventListener('change', e=>{ L.region=e.target.value; renderList(); });
+sel.addEventListener('change', e=>{ L.region=e.target.value; fillPrefs(); renderList(); });
+selP.addEventListener('change', e=>{ L.pref=e.target.value; renderList(); });
+fillPrefs();
 document.getElementById('sort').addEventListener('change', e=>{ L.sort=e.target.value; renderList(); });
 document.getElementById('q').addEventListener('input', e=>{ L.q=e.target.value.trim().toLowerCase(); renderList(); });
 
@@ -237,7 +285,7 @@ function renderWorkDetail(name){
     const o={live:0,soon:1,done:2};
     return o[a.st]-o[b.st] || a.start.localeCompare(b.start);
   });
-  const prefs = [...new Set(x.list.map(e=>e.pref))].join('・');
+  const prefs = [...new Set(x.list.flatMap(prefsOf))].sort((a,b)=>PO.indexOf(a)-PO.indexOf(b)).join('・');
   el.innerHTML = `
     <a class="back" href="#/works">‹ 作品一覧にもどる</a>
     <div class="whead">
