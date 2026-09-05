@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-04",
+    "updated": "2026-09-05",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -13358,36 +13358,6 @@
       ]
     },
     {
-      "id": "imas-opera-seria-kotobukiya-akiba",
-      "work": "アイドルマスター",
-      "title": "POP UP SHOP「オペラセリア」",
-      "venue": "コトブキヤ秋葉原館 5Fイベントフロア「コトブキヤベース・アキバ」",
-      "pref": "東京都",
-      "region": "関東",
-      "prefs": [
-        "東京都"
-      ],
-      "regions": [
-        "関東"
-      ],
-      "start": "2026-09-11",
-      "end": "2026-09-27",
-      "url": "https://www.kotobukiya.co.jp/event/detail/1333/",
-      "url_kind": "特設",
-      "source": "https://www.kotobukiya.co.jp/event/detail/1333/",
-      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_siyouhuka/kv1.png",
-      "tags": [
-        "POP UP"
-      ],
-      "map": [
-        {
-          "n": "コトブキヤ秋葉原館",
-          "q": "コトブキヤ秋葉原館",
-          "pref": "東京都"
-        }
-      ]
-    },
-    {
       "id": "bungosd-wan2-animate-ikebukuro",
       "work": "文豪ストレイドッグス",
       "title": "TVアニメ『文豪ストレイドッグス わん！２』オンリーショップ in アニメイト池袋本店",
@@ -14763,6 +14733,344 @@
           "n": "TOHOシネマズ名古屋栄",
           "q": "TOHOシネマズ名古屋栄",
           "pref": "全国"
+        }
+      ]
+    },
+    {
+      "id": "shinycolors-parallel-kairou-udx",
+      "work": "アイドルマスター シャイニーカラーズ",
+      "title": "アイドルマスター シャイニーカラーズ POP UP SHOP パラレル回廊",
+      "venue": "UDXギャラリー（秋葉原UDX 4F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-20",
+      "end": "2026-09-27",
+      "url": "https://idolmaster-official.jp/news/01_19700",
+      "url_kind": "公式",
+      "source": "https://idolmaster-official.jp/news/01_19700",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/n41Ji7p6QunDRH3v9XbmGPtsI50psI4T.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "UDXギャラリー",
+          "q": "秋葉原UDX",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "gkmas-eclipselight-animate-1",
+      "work": "学園アイドルマスター",
+      "title": "学園アイドルマスター -ECLIPSE LIGHT- フェア in アニメイト（前半）",
+      "venue": "全国アニメイト",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "start": "2026-10-10",
+      "end": "2026-10-30",
+      "url": "https://idolmaster-official.jp/news/01_19524",
+      "url_kind": "公式",
+      "source": "https://idolmaster-official.jp/news/01_19524",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/TmMHFKcy3Cmd19h1mHL3wLTRGqpl07AQ.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "アニメイト"
+      ],
+      "map": []
+    },
+    {
+      "id": "gkmas-eclipselight-animate-2",
+      "work": "学園アイドルマスター",
+      "title": "学園アイドルマスター -ECLIPSE LIGHT- フェア in アニメイト（後半）",
+      "venue": "全国アニメイト",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "start": "2026-10-31",
+      "end": "2026-11-23",
+      "url": "https://idolmaster-official.jp/news/01_19524",
+      "url_kind": "公式",
+      "source": "https://idolmaster-official.jp/news/01_19524",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/TmMHFKcy3Cmd19h1mHL3wLTRGqpl07AQ.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "アニメイト"
+      ],
+      "map": []
+    },
+    {
+      "id": "ganadi-jr-ikebukuro",
+      "work": "GANADI",
+      "title": "GANADI POP UP STORE JR池袋駅",
+      "venue": "JR池袋駅 南改札外イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-01",
+      "end": "2026-09-10",
+      "url": "https://juice-news.jp/event/ganadi_pus/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/ganadi-popup-store-ikebukuro-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/fa2d88940fcaa3223912bec427377c82.jpeg",
+      "tags": [
+        "キャラクター",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "JR池袋駅 南改札外イベントスペース",
+          "q": "JR池袋駅 南改札",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "irumakun-gothiclolita-premiumshop",
+      "work": "魔入りました!入間くん",
+      "title": "魔入りました!入間くん ゴスロリver. PremiumShop",
+      "venue": "POP Culture Style IKEBUKURO ほか ゲーマーズ4店舗（仙台／名古屋／なんば／博多）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "宮城県",
+        "東京都",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-09-18",
+      "end": "2026-10-18",
+      "url": "https://premiumshop.tokyo/irumakun_2609/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/irumakun-gothic-lolita-ver-premium-shop-ikebukuro2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/irumakun-gothic-lolita-premium-shop-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "ゲーマーズ",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "POP Culture Style IKEBUKURO",
+          "q": "POP Culture Style IKEBUKURO 池袋",
+          "pref": "東京都"
+        },
+        {
+          "n": "ゲーマーズ仙台店",
+          "q": "ゲーマーズ仙台店",
+          "pref": "宮城県"
+        },
+        {
+          "n": "ゲーマーズ名古屋店",
+          "q": "ゲーマーズ名古屋店",
+          "pref": "愛知県"
+        },
+        {
+          "n": "ゲーマーズなんば店",
+          "q": "ゲーマーズなんば店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ゲーマーズ博多店",
+          "q": "ゲーマーズ博多店",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "rezero-asakusa-popupstreet",
+      "work": "Re:ゼロから始める異世界生活",
+      "title": "『Re:ゼロから始める異世界生活』 POP UP STREET in 奥山おまいりまち・浅草西参道商店街",
+      "venue": "奥山おまいりまち商店街／浅草西参道商店街 ほか（浅草）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-25",
+      "url": "https://event.amnibus.com/re-zero-asakusaomatsuri/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/re-zero-asakusaomatsuri/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/21702cd98f6b96e42ee384a23e660333.jpg",
+      "tags": [
+        "アニメ",
+        "AMNIBUS",
+        "POP UP",
+        "商店街"
+      ],
+      "map": [
+        {
+          "n": "奥山おまいりまち商店街",
+          "q": "奥山おまいりまち商店街 浅草",
+          "pref": "東京都"
+        },
+        {
+          "n": "浅草西参道商店街",
+          "q": "浅草西参道商店街",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "imascg-toppabase-ecute-akiba",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "TOPPA!!! BASE アイドルマスター シンデレラガールズ POPUP SHOP",
+      "venue": "エキュート秋葉原（JR秋葉原駅 1F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-08-27",
+      "end": "2026-09-16",
+      "url": "https://idolmaster-official.jp/news/01_19246",
+      "url_kind": "公式",
+      "source": "https://idolmaster-official.jp/news/01_19246",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/42hILMaQ00hifSOm1AEOy9fzky9vouGL.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "エキュート秋葉原",
+          "q": "エキュート秋葉原",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "imascg-toppabase-hmv",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "TOPPA!!! BASE アイドルマスター シンデレラガールズ POPUP SHOP（出張所）",
+      "venue": "5会場（HMV札幌／HMV仙台／HMV栄／HMV&BOOKS NAMBA／イオン筑紫野）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-08-27",
+      "end": "2026-09-14",
+      "url": "https://idolmaster-official.jp/news/01_19246",
+      "url_kind": "公式",
+      "source": "https://idolmaster-official.jp/news/01_19246",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/42hILMaQ00hifSOm1AEOy9fzky9vouGL.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "TOPPA!!! BASE SAPPORO in HMV札幌（ステラプレイス 4F）",
+          "q": "HMV札幌 ステラプレイス",
+          "pref": "北海道"
+        },
+        {
+          "n": "TOPPA!!! BASE SENDAI in HMV仙台（E BeanS 5F）",
+          "q": "HMV仙台 E BeanS",
+          "pref": "宮城県"
+        },
+        {
+          "n": "TOPPA!!! BASE SAKAE in HMV栄（栄NOVA B1F）",
+          "q": "HMV栄 栄NOVA 名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "TOPPA!!! BASE NAMBA in HMV&BOOKS NAMBA（なんばマルイ 7F）",
+          "q": "HMV&BOOKS NAMBA",
+          "pref": "大阪府"
+        },
+        {
+          "n": "イオン筑紫野 1F 催事場",
+          "q": "イオン筑紫野",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "lovelive-premiumshop-summer-bd",
+      "work": "ラブライブ!シリーズ",
+      "title": "「ラブライブ!シリーズ PremiumShop」Summer Birthday Collection",
+      "venue": "POP Culture Style IKEBUKURO（池袋スクエア au Style IKEBUKURO 2F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-07-03",
+      "end": "2026-10-18",
+      "url": "https://premiumshop.tokyo/lovelive_2607",
+      "url_kind": "特設",
+      "source": "https://www.lovelive-anime.jp/uranohoshi/detail.php?p=01_6533",
+      "img": "https://www.lovelive-anime.jp/uranohoshi/topics/image.php?img_path=/lovelive/jp/news/2026/08/25/1002/CsSoaOjJ8q3jA9kV/rRWjN29LJp6uCbnc.jpeg",
+      "tags": [
+        "アニメ",
+        "アイドル",
+        "音楽"
+      ],
+      "map": [
+        {
+          "n": "POP Culture Style IKEBUKURO",
+          "q": "POP Culture Style IKEBUKURO 池袋",
+          "pref": "東京都"
         }
       ]
     }
