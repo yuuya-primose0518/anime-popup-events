@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-06",
+    "updated": "2026-09-07",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -13404,11 +13404,12 @@
       ],
       "start": "2026-10-09",
       "end": "2026-10-25",
-      "url": "https://www.medicos-e.net/newsdetail/neuesaga/",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1351/",
       "url_kind": "特設",
-      "source": "https://www.medicos-e.net/newsdetail/neuesaga/",
-      "img": "",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1351/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_noisaga/banner.jpg",
       "tags": [
+        "POP UP",
         "アニメ",
         "コトブキヤ"
       ],
@@ -13449,36 +13450,6 @@
           "n": "梅田PACKS",
           "q": "アニメイト梅田店 梅田PACKS",
           "pref": "大阪府"
-        }
-      ]
-    },
-    {
-      "id": "noisaga-2nd-kotobukiya-akiba",
-      "work": "銀河英雄伝説 Die Neue Saga",
-      "title": "『銀河英雄伝説 Die Neue Saga』2周年記念POP UP SHOP in コトブキヤ",
-      "venue": "コトブキヤ秋葉原館 2F",
-      "pref": "東京都",
-      "region": "関東",
-      "prefs": [
-        "東京都"
-      ],
-      "regions": [
-        "関東"
-      ],
-      "start": "2026-10-09",
-      "end": "2026-10-25",
-      "url": "https://www.kotobukiya.co.jp/event/detail/1351/",
-      "url_kind": "特設",
-      "source": "https://www.kotobukiya.co.jp/event/detail/1351/",
-      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202609_noisaga/banner.jpg",
-      "tags": [
-        "POP UP"
-      ],
-      "map": [
-        {
-          "n": "コトブキヤ秋葉原館",
-          "q": "コトブキヤ秋葉原館",
-          "pref": "東京都"
         }
       ]
     },
@@ -15514,6 +15485,212 @@
         {
           "n": "天神ロフト",
           "q": "天神ロフト",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "keroro-sanrio-kyoto",
+      "work": "ケロロ軍曹",
+      "title": "ケロロ軍曹×サンリオキャラクターズ POP UP STORE",
+      "venue": "エキマル ア・ラ・モード JR京都駅西口店",
+      "pref": "京都府",
+      "region": "関西",
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-09-11",
+      "end": "2026-09-23",
+      "url": "https://munyugurumi.jp/pages/kerorosanrio_popup_2026_2",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/keroro-sanrio-characters-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/keroro-sanrio-popup-main-visual.jpg",
+      "tags": [
+        "アニメ",
+        "キャラクター",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "エキマル ア・ラ・モード JR京都駅西口店",
+          "q": "エキマル京都 JR京都駅西口",
+          "pref": "京都府"
+        }
+      ]
+    },
+    {
+      "id": "keroro-sanrio-sendai",
+      "work": "ケロロ軍曹",
+      "title": "ケロロ軍曹×サンリオキャラクターズ POP UP STORE",
+      "venue": "エスパル仙台 本館1F エスパルスクエア",
+      "pref": "宮城県",
+      "region": "東北",
+      "prefs": [
+        "宮城県"
+      ],
+      "regions": [
+        "東北"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://munyugurumi.jp/pages/kerorosanrio_popup_2026_2",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/keroro-sanrio-characters-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/keroro-sanrio-popup-main-visual.jpg",
+      "tags": [
+        "アニメ",
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "エスパル仙台 本館",
+          "q": "エスパル仙台",
+          "pref": "宮城県"
+        }
+      ]
+    },
+    {
+      "id": "keroro-sanrio-ikebukuro",
+      "work": "ケロロ軍曹",
+      "title": "ケロロ軍曹×サンリオキャラクターズ POP UP STORE",
+      "venue": "JR池袋駅 南改札口前 イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-13",
+      "end": "2026-10-26",
+      "url": "https://munyugurumi.jp/pages/kerorosanrio_popup_2026_2",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/keroro-sanrio-characters-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/keroro-sanrio-popup-main-visual.jpg",
+      "tags": [
+        "アニメ",
+        "キャラクター",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "JR池袋駅 南改札口前",
+          "q": "JR池袋駅",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "nerdog-mominin-yamadayum-ginza",
+      "work": "NERDOG・もみにん・山田yum",
+      "title": "NERDOG・もみにん・山田yum 合同POPUP",
+      "venue": "銀座 蔦屋書店 ART IN CABINET（GINZA SIX 6F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-11",
+      "end": "2026-09-23",
+      "url": "https://www.acgateway.com/ex_nmypopup/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/nerdog-momininn-yamadayum-popup-ginza-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/188701d5af4fa8bdd19cc4f431ff047b.jpg",
+      "tags": [
+        "イラストレーター",
+        "キャラクター",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "銀座 蔦屋書店（GINZA SIX 6F）",
+          "q": "銀座 蔦屋書店 GINZA SIX",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-zeztz-hmv-namba-okazaki",
+      "work": "仮面ライダーゼッツ",
+      "title": "仮面ライダーゼッツ × HMV POP UP ショップ",
+      "venue": "HMV&BOOKS NAMBA／HMVイオンモール岡崎",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "愛知県",
+        "大阪府"
+      ],
+      "regions": [
+        "中部",
+        "関西"
+      ],
+      "start": "2026-09-19",
+      "end": "2026-10-04",
+      "url": "https://www.hmv.co.jp/news/article/260806100/?site=music_04",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/kamen-rider-zeztz-hmv-pop-up-shop2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kamen-rider-zeztz-hmv-pop-up-shop-key-visual.jpg",
+      "tags": [
+        "特撮",
+        "キャラクター",
+        "HMV"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS NAMBA",
+          "q": "HMV&BOOKS NAMBA なんばマルイ",
+          "pref": "大阪府"
+        },
+        {
+          "n": "HMVイオンモール岡崎",
+          "q": "HMV イオンモール岡崎",
+          "pref": "愛知県"
+        }
+      ]
+    },
+    {
+      "id": "kamen-rider-zeztz-hmv-shibuya-hakata",
+      "work": "仮面ライダーゼッツ",
+      "title": "仮面ライダーゼッツ × HMV POP UP ショップ",
+      "venue": "HMV&BOOKS SHIBUYA／HMV&BOOKS HAKATA",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "福岡県"
+      ],
+      "regions": [
+        "関東",
+        "九州・沖縄"
+      ],
+      "start": "2026-10-10",
+      "end": "2026-10-25",
+      "url": "https://www.hmv.co.jp/news/article/260806100/?site=music_04",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/kamen-rider-zeztz-hmv-pop-up-shop2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kamen-rider-zeztz-hmv-pop-up-shop-key-visual.jpg",
+      "tags": [
+        "特撮",
+        "キャラクター",
+        "HMV"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS SHIBUYA",
+          "q": "HMV&BOOKS SHIBUYA 渋谷モディ",
+          "pref": "東京都"
+        },
+        {
+          "n": "HMV&BOOKS HAKATA",
+          "q": "HMV&BOOKS HAKATA 博多マルイ",
           "pref": "福岡県"
         }
       ]
