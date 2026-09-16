@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-15",
+    "updated": "2026-09-16",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -18604,6 +18604,441 @@
           "n": "福岡天神 蔦屋書店",
           "q": "福岡天神 蔦屋書店",
           "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "assassin-cinderella-akiba-fancube",
+      "work": "アサシン＆シンデレラ",
+      "title": "アサシン&シンデレラ POP UP STORE",
+      "venue": "AKIBA FAN CUBE 2F（秋葉原）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-25",
+      "end": "2026-10-12",
+      "url": "https://www.cocollabo.net/pages/assassincinderella-2026",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/assassin-cinderella-popup-store-akihabara-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/2aa6a613376610ed0412cc4913a7072d.jpeg",
+      "tags": [
+        "マンガ",
+        "POP UP",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "AKIBA FAN CUBE",
+          "q": "AKIBA FAN CUBE 秋葉原",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "bangdream-atre-akihabara",
+      "work": "BanG Dream!",
+      "title": "BanG Dream! × アトレ秋葉原 POP UP STORE 2026",
+      "venue": "アトレ秋葉原1 2F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-18",
+      "end": "2026-10-01",
+      "url": "https://bushiroad-creative.com/topics/104468/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/bang-dream-atre-akihabara-popupstore-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/bang-dream-atre-akihabara-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "音楽",
+        "アイドル",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "アトレ秋葉原1",
+          "q": "アトレ秋葉原1",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "hikarunogo-tsutaya-fair",
+      "work": "ヒカルの碁",
+      "title": "『ヒカルの碁』グッズフェア in TSUTAYA",
+      "venue": "17会場（函館 蔦屋書店／TSUTAYA 仙台駅前店／BOOK EXPRESS ペリエ西船橋店／BOOK COMPASS エキュート上野店／BOOK COMPASS エキュート品川店／TSUTAYA BOOKSTORE 渋谷サクラステージ／TSUTAYA BOOKSTORE カラフルタウン岐阜／谷島屋 浜松本店／谷島屋 イオンモール浜松志都呂店／谷島屋 ららぽーと沼津店／TSUTAYA BOOKSTORE 則武新町／TSUTAYA いまじん白揚ウイングタウン岡崎店／TSUTAYA リノアス八尾店／TSUTAYA BOOKSTORE 高松ORNE／福岡天神 蔦屋書店／TSUTAYA BOOKSTORE させぼ五番街店／蔦屋書店 熊本三年坂）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "千葉県",
+        "東京都",
+        "岐阜県",
+        "静岡県",
+        "愛知県",
+        "大阪府",
+        "香川県",
+        "福岡県",
+        "長崎県",
+        "熊本県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "四国",
+        "九州・沖縄"
+      ],
+      "start": "2026-10-01",
+      "end": "2026-10-16",
+      "url": "https://tsutaya.tsite.jp/articles/store-5798",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/hikarunogo-tsutaya-goods-fair-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/eb81366e1df13773ff64710349331a8a.jpeg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "少年",
+        "書店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "函館 蔦屋書店",
+          "q": "函館 蔦屋書店",
+          "pref": "北海道"
+        },
+        {
+          "n": "TSUTAYA 仙台駅前店",
+          "q": "TSUTAYA 仙台駅前店",
+          "pref": "宮城県"
+        },
+        {
+          "n": "BOOK EXPRESS ペリエ西船橋店",
+          "q": "BOOK EXPRESS ペリエ西船橋",
+          "pref": "千葉県"
+        },
+        {
+          "n": "BOOK COMPASS エキュート上野店",
+          "q": "BOOK COMPASS エキュート上野",
+          "pref": "東京都"
+        },
+        {
+          "n": "BOOK COMPASS エキュート品川店",
+          "q": "BOOK COMPASS エキュート品川",
+          "pref": "東京都"
+        },
+        {
+          "n": "TSUTAYA BOOKSTORE 渋谷サクラステージ",
+          "q": "TSUTAYA BOOKSTORE 渋谷サクラステージ",
+          "pref": "東京都"
+        },
+        {
+          "n": "TSUTAYA BOOKSTORE カラフルタウン岐阜",
+          "q": "TSUTAYA BOOKSTORE カラフルタウン岐阜",
+          "pref": "岐阜県"
+        },
+        {
+          "n": "谷島屋 浜松本店",
+          "q": "谷島屋 浜松本店",
+          "pref": "静岡県"
+        },
+        {
+          "n": "谷島屋 イオンモール浜松志都呂店",
+          "q": "谷島屋 イオンモール浜松志都呂",
+          "pref": "静岡県"
+        },
+        {
+          "n": "谷島屋 ららぽーと沼津店",
+          "q": "谷島屋 ららぽーと沼津",
+          "pref": "静岡県"
+        },
+        {
+          "n": "TSUTAYA BOOKSTORE 則武新町",
+          "q": "TSUTAYA BOOKSTORE 則武新町 名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "TSUTAYA いまじん白揚ウイングタウン岡崎店",
+          "q": "TSUTAYA いまじん白揚 ウイングタウン岡崎",
+          "pref": "愛知県"
+        },
+        {
+          "n": "TSUTAYA リノアス八尾店",
+          "q": "TSUTAYA リノアス八尾",
+          "pref": "大阪府"
+        },
+        {
+          "n": "TSUTAYA BOOKSTORE 高松ORNE",
+          "q": "TSUTAYA BOOKSTORE 高松ORNE",
+          "pref": "香川県"
+        },
+        {
+          "n": "福岡天神 蔦屋書店",
+          "q": "福岡天神 蔦屋書店",
+          "pref": "福岡県"
+        },
+        {
+          "n": "TSUTAYA BOOKSTORE させぼ五番街店",
+          "q": "TSUTAYA BOOKSTORE させぼ五番街",
+          "pref": "長崎県"
+        },
+        {
+          "n": "蔦屋書店 熊本三年坂",
+          "q": "蔦屋書店 熊本三年坂",
+          "pref": "熊本県"
+        }
+      ]
+    },
+    {
+      "id": "kaoruhana-storeblue",
+      "work": "薫る花は凛と咲く",
+      "title": "TVアニメ「薫る花は凛と咲く」POP UP SHOP in AMNIBUS STORE -blue-",
+      "venue": "AMNIBUS STORE -blue-（MAGNET by SHIBUYA109 5F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-25",
+      "url": "https://store.amnibus.com/kaoruhana-storeblue/",
+      "url_kind": "特設",
+      "source": "https://store.amnibus.com/kaoruhana-storeblue/",
+      "img": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/616cd9d5735252bb83f1cb95c0e58da3.jpg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "ラブコメ",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "AMNIBUS STORE -blue-（MAGNET by SHIBUYA109 5F）",
+          "q": "MAGNET by SHIBUYA109",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "harutora-miraiya-19stores",
+      "work": "ちょっと待とうよ、春虎くん",
+      "title": "『ちょっと待とうよ、春虎くん』ドラマ&原作 ポップアップストア at マンガ展",
+      "venue": "19会場（未来屋書店 仙台上杉店／新潟亀田インター店／土浦店／北戸田店／与野店／幕張新都心店／鎌取店／成田店／板橋店／秦野店／浜松市野店／甲府昭和店／須坂店／新瑞橋店／大日店／りんくう泉南店／大牟田店／KAGOSHIMA BAY店／沖縄ライカム店）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "宮城県",
+        "茨城県",
+        "埼玉県",
+        "千葉県",
+        "東京都",
+        "神奈川県",
+        "新潟県",
+        "山梨県",
+        "長野県",
+        "静岡県",
+        "愛知県",
+        "大阪府",
+        "福岡県",
+        "鹿児島県",
+        "沖縄県"
+      ],
+      "regions": [
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-09-17",
+      "end": "2026-10-07",
+      "url": "https://www.manga10.com/page/harutora-miraiyashoten/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/harutora-popup-goods-miraiyashoten-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/harutora-popup-manga10-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "BL",
+        "書店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "未来屋書店 仙台上杉店",
+          "q": "未来屋書店 仙台上杉",
+          "pref": "宮城県"
+        },
+        {
+          "n": "未来屋書店 新潟亀田インター店",
+          "q": "未来屋書店 新潟亀田インター",
+          "pref": "新潟県"
+        },
+        {
+          "n": "未来屋書店 土浦店",
+          "q": "未来屋書店 土浦",
+          "pref": "茨城県"
+        },
+        {
+          "n": "未来屋書店 北戸田店",
+          "q": "未来屋書店 北戸田",
+          "pref": "埼玉県"
+        },
+        {
+          "n": "未来屋書店 与野店",
+          "q": "未来屋書店 与野",
+          "pref": "埼玉県"
+        },
+        {
+          "n": "未来屋書店 幕張新都心店",
+          "q": "未来屋書店 幕張新都心",
+          "pref": "千葉県"
+        },
+        {
+          "n": "未来屋書店 鎌取店",
+          "q": "未来屋書店 鎌取",
+          "pref": "千葉県"
+        },
+        {
+          "n": "未来屋書店 成田店",
+          "q": "未来屋書店 成田",
+          "pref": "千葉県"
+        },
+        {
+          "n": "未来屋書店 板橋店",
+          "q": "未来屋書店 板橋",
+          "pref": "東京都"
+        },
+        {
+          "n": "未来屋書店 秦野店",
+          "q": "未来屋書店 秦野",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "未来屋書店 浜松市野店",
+          "q": "未来屋書店 浜松市野",
+          "pref": "静岡県"
+        },
+        {
+          "n": "未来屋書店 甲府昭和店",
+          "q": "未来屋書店 甲府昭和",
+          "pref": "山梨県"
+        },
+        {
+          "n": "未来屋書店 須坂店",
+          "q": "未来屋書店 須坂",
+          "pref": "長野県"
+        },
+        {
+          "n": "未来屋書店 新瑞橋店",
+          "q": "未来屋書店 新瑞橋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "未来屋書店 大日店",
+          "q": "未来屋書店 大日",
+          "pref": "大阪府"
+        },
+        {
+          "n": "未来屋書店 りんくう泉南店",
+          "q": "未来屋書店 りんくう泉南",
+          "pref": "大阪府"
+        },
+        {
+          "n": "未来屋書店 大牟田店",
+          "q": "未来屋書店 大牟田",
+          "pref": "福岡県"
+        },
+        {
+          "n": "未来屋書店 KAGOSHIMA BAY店",
+          "q": "未来屋書店 KAGOSHIMA BAY",
+          "pref": "鹿児島県"
+        },
+        {
+          "n": "未来屋書店 沖縄ライカム店",
+          "q": "未来屋書店 沖縄ライカム",
+          "pref": "沖縄県"
+        }
+      ]
+    },
+    {
+      "id": "harutora-miraiya-tendo",
+      "work": "ちょっと待とうよ、春虎くん",
+      "title": "『ちょっと待とうよ、春虎くん』ドラマ&原作 ポップアップストア at マンガ展",
+      "venue": "未来屋書店 天童店",
+      "pref": "山形県",
+      "region": "東北",
+      "prefs": [
+        "山形県"
+      ],
+      "regions": [
+        "東北"
+      ],
+      "start": "2026-09-19",
+      "end": "2026-10-07",
+      "url": "https://www.manga10.com/page/harutora-miraiyashoten/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/harutora-popup-goods-miraiyashoten-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/harutora-popup-manga10-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "BL",
+        "書店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "未来屋書店 天童店",
+          "q": "未来屋書店 天童",
+          "pref": "山形県"
+        }
+      ]
+    },
+    {
+      "id": "everydaysunday-shibuya-base",
+      "work": "EVERYDAY SUNDAY",
+      "title": "EVERYDAY SUNDAY POP-UP STORE",
+      "venue": "SHIBUYA BASE（渋谷モディ 1F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-18",
+      "end": "2026-09-21",
+      "url": "https://www.0101.co.jp/721/sale-campaign/detail.html?article_seq=981793&article_type=sho",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/everyday-sunday-pop-up-store-shibuya-modi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/814d0140ec345f7f64b64f32819920a1.jpg",
+      "tags": [
+        "キャラクター",
+        "ほのぼの",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA BASE（渋谷モディ 1F）",
+          "q": "渋谷モディ",
+          "pref": "東京都"
         }
       ]
     }
