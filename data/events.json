@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-16",
+    "updated": "2026-09-18",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -19038,6 +19038,1324 @@
         {
           "n": "SHIBUYA BASE（渋谷モディ 1F）",
           "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "shigureui-mezzopiano-nagoya-parco",
+      "work": "しぐれうい",
+      "title": "しぐれうい×mezzo piano POP UP STORE",
+      "venue": "名古屋PARCO 東館 B1F PARCO BOX",
+      "pref": "愛知県",
+      "region": "中部",
+      "prefs": [
+        "愛知県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-10-12",
+      "url": "https://nagoya.parco.jp/event/detail/?id=38657",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/shigure-ui-mezzo-piano-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ab6e6c19b0bf56ede7aae75c1addaa22.jpeg",
+      "tags": [
+        "キャラクター",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "名古屋PARCO 東館",
+          "q": "名古屋PARCO 東館",
+          "pref": "愛知県"
+        }
+      ]
+    },
+    {
+      "id": "shigureui-mezzopiano-shibuya109",
+      "work": "しぐれうい",
+      "title": "しぐれうい×mezzo piano POP UP STORE",
+      "venue": "SHIBUYA109渋谷店 8F DISP!!!",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-15",
+      "end": "2026-10-25",
+      "url": "https://shibuya109.jp/topics/shigureuimezzopiano0915/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/shigure-ui-mezzo-piano-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ab6e6c19b0bf56ede7aae75c1addaa22.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA109渋谷店",
+          "q": "SHIBUYA109 渋谷",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "shigureui-mezzopiano-shinsaibashi-parco",
+      "work": "しぐれうい",
+      "title": "しぐれうい×mezzo piano POP UP STORE",
+      "venue": "心斎橋PARCO 9F EVENT SPACE",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "url": "https://shinsaibashi.parco.jp/event/detail/?id=38637",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/shigure-ui-mezzo-piano-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ab6e6c19b0bf56ede7aae75c1addaa22.jpeg",
+      "tags": [
+        "キャラクター",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "心斎橋PARCO",
+          "q": "心斎橋PARCO 大阪",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "macross-asakusa-matsuya",
+      "work": "マクロス",
+      "title": "MACROSS POP UP STORE Go To 浅草!超時空修学旅行",
+      "venue": "松屋浅草 3F 催事場（Anime Culture Center by eeo 前）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-16",
+      "url": "https://eeo.today/pr/macross-asakusa/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/macross-popup-store-asakusa-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/macross-asakusa-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "百貨店"
+      ],
+      "map": [
+        {
+          "n": "松屋浅草",
+          "q": "松屋浅草 東京",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "bakatest-popup-melonbooks",
+      "work": "バカとテストと召喚獣",
+      "title": "バカとテストと召喚獣 POP UP CORNER in メロンブックス",
+      "venue": "メロンブックス秋葉原店／メロンブックス大阪日本橋店",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-11",
+      "url": "https://www.melonbooks.co.jp/tags/index.php?tag=bakatesu_a3_popup",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/bakatest-popup-corner-melonbooks-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/766daf882e4acd7b2e6b955eee53035a.jpeg",
+      "tags": [
+        "ラノベ",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "メロンブックス秋葉原店",
+          "q": "メロンブックス秋葉原店",
+          "pref": "東京都"
+        },
+        {
+          "n": "メロンブックス大阪日本橋店",
+          "q": "メロンブックス大阪日本橋店",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "dragon-musume-tree-village",
+      "work": "ドラゴン娘になりたくないっ!",
+      "title": "『ドラゴン娘』POP UP SHOP",
+      "venue": "エンタメショップ ツリービレッジ東京店（東京スカイツリータウン・ソラマチ ウエストヤード4F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://tree-village.jp/news/014477.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/dragon-musume-pop-up-shop-tree-village-tokyo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/86c27389d7c6eaf0dfbc86dc5415c82b.jpeg",
+      "tags": [
+        "アニメ",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "ツリービレッジ東京店",
+          "q": "ツリービレッジ 東京ソラマチ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "zombielandsaga-movie-ueno-marui",
+      "work": "ゾンビランドサガ",
+      "title": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』POP UP SHOP ～公開1周年!お祝いばい!!めでたか～!!!～",
+      "venue": "上野マルイ 5F カレンダリウム",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://zombielandsaga-movie.com/news/detail.php?id=1135554",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/zombielandsaga-movie-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/zombielandsaga-movie-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "上野マルイ",
+          "q": "上野マルイ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "zombielandsaga-movie-morage-saga",
+      "work": "ゾンビランドサガ",
+      "title": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』POP UP SHOP ～公開1周年!お祝いばい!!めでたか～!!!～",
+      "venue": "モラージュ佐賀 1F モラージュプラザ",
+      "pref": "佐賀県",
+      "region": "九州・沖縄",
+      "prefs": [
+        "佐賀県"
+      ],
+      "regions": [
+        "九州・沖縄"
+      ],
+      "start": "2026-10-16",
+      "end": "2026-10-25",
+      "url": "https://zombielandsaga-movie.com/news/detail.php?id=1135554",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/zombielandsaga-movie-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/zombielandsaga-movie-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "モラージュ佐賀",
+          "q": "モラージュ佐賀",
+          "pref": "佐賀県"
+        }
+      ]
+    },
+    {
+      "id": "bluelock-ghostfox-links-umeda",
+      "work": "ブルーロック",
+      "title": "ブルーロック POP UP SHOP ゴースト&フォックスコレクション",
+      "venue": "リンクス梅田 3F",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "url": "https://collabo-cafe.com/events/collabo/blue-lock-ghost-fox-pop-up-shop-links-umeda-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/blue-lock-ghost-fox-pop-up-shop-links-umeda-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/2a47eca0a49423c076aed7ed9f405818.jpeg",
+      "tags": [
+        "少年",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "リンクス梅田",
+          "q": "リンクス梅田 大阪",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "peanuts-ilike-tokyo-station",
+      "work": "PEANUTS",
+      "title": "PEANUTS I LIKE… ストア in 東京駅一番街",
+      "venue": "東京駅一番街 B1F 東京キャラクターストリート いちばんプラザ催事場",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-18",
+      "end": "2026-10-01",
+      "url": "https://town.snoopy.co.jp/item/original/ilike_tokyo.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/peanuts-i-like-tokyo-station-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/peanuts-i-like-tokyo-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "東京駅一番街 東京キャラクターストリート",
+          "q": "東京駅一番街 東京キャラクターストリート",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "rxr-2nd-shibuya-tsutaya",
+      "work": "リバースブルー×リバースエンド",
+      "title": "リバースブルー×リバースエンド 2nd Anniversary POP UP SHOP",
+      "venue": "SHIBUYA TSUTAYA 6F IP書店",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-25",
+      "end": "2026-10-29",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2648.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/rxr-2nd-anniversary-popup-shop-shibuya-tsutaya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/rxr-2nd-anniversary-popup-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA 渋谷",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "korinojoheki-pickup-rankin-shibuya",
+      "work": "氷の城壁",
+      "title": "TVアニメ『氷の城壁』POP UP SHOP in PickUpランキン 渋谷ちかみち",
+      "venue": "PickUpランキン 渋谷ちかみち（東京メトロ渋谷駅構内 B2F 連絡通路）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/korinojoheki-rkrqpickup/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/korinojoheki-rkrqpickup/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/dc9de53cd1c233e3cd8141d27a49c57d.jpg",
+      "tags": [
+        "アニメ",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "PickUpランキン 渋谷ちかみち",
+          "q": "ランキンランキン 渋谷ちかみち",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "windbreaker-tower-2026",
+      "work": "WIND BREAKER",
+      "title": "TVアニメ『WIND BREAKER』POP UP SHOP in TOWER RECORDS",
+      "venue": "タワーレコード新宿店／タワーレコード あべのHoop店",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-18",
+      "url": "https://event.amnibus.com/winbre-tower/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/winbre-tower/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/a58aa801f24954a678c84fff6a0ab447.jpg",
+      "tags": [
+        "少年",
+        "タワーレコード"
+      ],
+      "map": [
+        {
+          "n": "タワーレコード新宿店",
+          "q": "タワーレコード新宿店",
+          "pref": "東京都"
+        },
+        {
+          "n": "タワーレコード あべのHoop店",
+          "q": "タワーレコードあべのHoop店 大阪",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "obungu-solamachi",
+      "work": "お文具といっしょ",
+      "title": "お文具といっしょ POPUP STORE in 東京ソラマチ",
+      "venue": "東京ソラマチ 2F 9番地 特設会場",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-10-31",
+      "url": "https://collabo-cafe.com/events/collabo/obungu-popup-store-solamachi-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/obungu-popup-store-solamachi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/5e888f6f98e061839077a99c966427ec.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "東京ソラマチ",
+          "q": "東京ソラマチ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "seihantai-animate-fair",
+      "work": "正反対な君と僕",
+      "title": "正反対な君と僕 アニメイトフェア「～みんなでブレザー着てみた～」",
+      "venue": "全国アニメイト・アニメイト通販",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-25",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115910",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/seihantai-kimitoboku-animate-fair-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/seihantai-kimitoboku-animate-fair-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "アニメイト"
+      ],
+      "map": []
+    },
+    {
+      "id": "osomatsu-devil-animate",
+      "work": "おそ松さん",
+      "title": "おそ松さん POP UP SHOP（Devil ver.）",
+      "venue": "アニメイト池袋本店 6F／アニメイト梅田",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116425",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/osomatsusan-popupshop-devil-animate-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/7a27017f93a137a5a757e18e7bc8e2ba.jpg",
+      "tags": [
+        "アニメ",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト梅田",
+          "q": "アニメイト梅田",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-magical-grandeuo-tachikawa",
+      "work": "ちいかわ",
+      "title": "まじかるちいかわ POP UP STORE in グランデュオ立川",
+      "venue": "グランデュオ立川 2F イベントスペース2",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-30",
+      "end": "2026-11-08",
+      "url": "https://chiikawa-info.jp/p26/mg_tckw/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/magical-chiikawa-popup-store-grandeuo-tachikawa-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/c21cc619c57a6ffeef3e781737e07099-3.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "グランデュオ立川",
+          "q": "グランデュオ立川",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "junjiito-sanrio-lumine-est",
+      "work": "伊藤潤二",
+      "title": "伊藤潤二×サンリオキャラクターズ POP UP STORE",
+      "venue": "ルミネエスト新宿 B1F 中央東改札外 券売機横",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-01",
+      "end": "2026-10-14",
+      "url": "https://yte-ec.com/lp/junji-sanrio_2",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/junji-ito-sanrio-popup-shinjuku-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/junji-ito-sanrio-popup-2026-kv-mymelody-kuromi.jpg",
+      "tags": [
+        "マンガ",
+        "サンリオ",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "ルミネエスト新宿",
+          "q": "ルミネエスト新宿",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "baki-35th-shinjuku-marui",
+      "work": "刃牙",
+      "title": "刃牙シリーズ35周年記念「喜怒哀楽昂叫凪愛ッッ!!!POPUP SHOP」（東京）",
+      "venue": "新宿マルイ アネックス 3F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://shop.akitashoten.co.jp/view/page/bakipopup2026",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/baki-35th-popup-shinjuku-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/baki-35th-popup-marui-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "マルイ",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "baki-35th-namba-marui",
+      "work": "刃牙",
+      "title": "刃牙シリーズ35周年記念「喜怒哀楽昂叫凪愛ッッ!!!POPUP SHOP」（大阪）",
+      "venue": "なんばマルイ 5F イベントスペース",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-13",
+      "url": "https://shop.akitashoten.co.jp/view/page/bakipopup2026",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/baki-35th-popup-shinjuku-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/baki-35th-popup-marui-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "マルイ",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "なんばマルイ",
+          "q": "なんばマルイ",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "hikanatsu-5th-shinjuku-marui",
+      "work": "光が死んだ夏",
+      "title": "『光が死んだ夏』5周年記念POP UP SHOP in OIOI",
+      "venue": "新宿マルイ アネックス 2F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://www.0101.co.jp/005/event/detail.html?article_seq=143782&article_type=sto",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/hikarugashinda-popup-shinjuku-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/b8f720e2a07f2a4228920a2f17fbdf1f.jpg",
+      "tags": [
+        "マンガ",
+        "マルイ",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "gintama-kyoto-ip-shoten",
+      "work": "銀魂",
+      "title": "銀魂 季節の草花 POP UP SHOP in 京都IP書店",
+      "venue": "京都IP書店（京都髙島屋S.C.[T8] 6F）",
+      "pref": "京都府",
+      "region": "関西",
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-27",
+      "url": "https://shibuyatsutaya.tsite.jp/kyoto/ip-shoten/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/gintama-tsutaya-popup-kyoto-ip-shoten-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gintama-tsutaya-popup-kyoto-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "京都IP書店（京都髙島屋S.C.[T8]）",
+          "q": "京都髙島屋S.C. T8",
+          "pref": "京都府"
+        }
+      ]
+    },
+    {
+      "id": "yominotsugai-backshot-bushiroad-akiba",
+      "work": "黄泉のツガイ",
+      "title": "TVアニメ「黄泉のツガイ」POP UP SHOP バックショットver.",
+      "venue": "ブシロードクリエイティブストア 秋葉原本店（アニメイト秋葉原ANNEX 5F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://bushiroad-creative.com/topics-event/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/yominotsugai-popup-backshot-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/yominotsugai-popup-backshot-eyecatch.jpg",
+      "tags": [
+        "少年",
+        "ファンタジー",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "ブシロードクリエイティブストア 秋葉原本店",
+          "q": "ブシロードクリエイティブストア 秋葉原本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "mairuma-animate-fair",
+      "work": "魔入りました!入間くん",
+      "title": "アニメ『魔入りました！入間くん』アニメイトフェア",
+      "venue": "アニメイト9店舗（池袋本店／仙台／札幌／名古屋／秋葉原／ラシック福岡天神／大阪日本橋／横浜ビブレ／梅田）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "東京都",
+        "神奈川県",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-20",
+      "url": "https://event.amnibus.com/mairuma-animate/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/mairuma-animate/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/25ce3ea135d2533dbe25dbf85b009b26-2.jpg",
+      "tags": [
+        "アニメ",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト仙台",
+          "q": "アニメイト仙台",
+          "pref": "宮城県"
+        },
+        {
+          "n": "アニメイト札幌",
+          "q": "アニメイト札幌",
+          "pref": "北海道"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイトラシック福岡天神",
+          "q": "アニメイト ラシック福岡天神",
+          "pref": "福岡県"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト梅田",
+          "q": "アニメイト梅田",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "tokokuzu-medicos-shibuya",
+      "work": "とことんクズな渡良瀬なのに",
+      "title": "『とことんクズな渡良瀬なのに』POP UP CORNER",
+      "venue": "MEDICOS SHOP渋谷（MAGNET by SHIBUYA109 5F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-10-29",
+      "url": "https://www.medicos-e.net/newsdetail/tokokuzu/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/tokokuzu/",
+      "img": "",
+      "tags": [
+        "マンガ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "MAGNET by SHIBUYA109",
+          "q": "MAGNET by SHIBUYA109",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "nhk-25th-medicos-shinjuku",
+      "work": "NHKにようこそ！",
+      "title": "『NHKにようこそ！』25周年記念 中原岬 POP UP SHOP",
+      "venue": "MEDICOS SHOP新宿（新宿マルイ アネックス 2F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-10-29",
+      "url": "https://www.medicos-e.net/newsdetail/nhk/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/nhk/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "girlsundpanzer-medicos-shinjuku",
+      "work": "ガールズ＆パンツァー",
+      "title": "『ガールズ＆パンツァー 最終章』POP UP SHOP",
+      "venue": "MEDICOS SHOP新宿（新宿マルイ アネックス 2F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-23",
+      "end": "2026-11-05",
+      "url": "https://www.medicos-e.net/newsdetail/girls_und_panzer_pop_up2026/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/girls_und_panzer_pop_up2026/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "petitcure-yokohama-loft",
+      "work": "プリキュア",
+      "title": "「ぷちきゅあ～Precure Fairies～」グッズフェア",
+      "venue": "横浜ロフト Bゾーン キャラクター雑貨売場",
+      "pref": "神奈川県",
+      "region": "関東",
+      "prefs": [
+        "神奈川県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-11-01",
+      "url": "https://www.medicos-e.net/newsdetail/petitcure_fuwafuwasnow/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/petitcure_fuwafuwasnow/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "ロフト"
+      ],
+      "map": [
+        {
+          "n": "横浜ロフト",
+          "q": "横浜ロフト",
+          "pref": "神奈川県"
+        }
+      ]
+    },
+    {
+      "id": "bravern-medicos-shinjuku",
+      "work": "勇気爆発バーンブレイバーン",
+      "title": "オリジナルTVアニメ「勇気爆発バーンブレイバーン」POP UP SHOP ～叫べ！勇気爆発拳～（東京）",
+      "venue": "MEDICOS SHOP新宿（新宿マルイ アネックス 2F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-16",
+      "end": "2026-10-28",
+      "url": "https://www.medicos-e.net/newsdetail/bbb2026/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/bbb2026/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "bravern-abeno-rakubasu",
+      "work": "勇気爆発バーンブレイバーン",
+      "title": "オリジナルTVアニメ「勇気爆発バーンブレイバーン」POP UP SHOP ～叫べ！勇気爆発拳～（大阪）",
+      "venue": "アベノラクバス（あべのHoop 4F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "url": "https://www.medicos-e.net/newsdetail/bbb2026/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/bbb2026/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "アベノラクバス（あべのHoop）",
+          "q": "あべのHoop",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "shiboyugi-anime-medicos-shinjuku",
+      "work": "死亡遊戯で飯を食う。",
+      "title": "アニメ「死亡遊戯で飯を食う。」POP UP SHOP（東京）",
+      "venue": "MEDICOS SHOP新宿（新宿マルイ アネックス 2F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-15",
+      "end": "2026-10-29",
+      "url": "https://www.medicos-e.net/newsdetail/shiboyugi-anime/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/shiboyugi-anime/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス",
+        "ラノベ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "shiboyugi-anime-abeno-rakubasu",
+      "work": "死亡遊戯で飯を食う。",
+      "title": "アニメ「死亡遊戯で飯を食う。」POP UP SHOP（大阪）",
+      "venue": "アベノラクバス（あべのHoop 4F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-15",
+      "url": "https://www.medicos-e.net/newsdetail/shiboyugi-anime/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/shiboyugi-anime/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス",
+        "ラノベ"
+      ],
+      "map": [
+        {
+          "n": "アベノラクバス（あべのHoop）",
+          "q": "あべのHoop",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "imascg-parfait-coquette-kotobukiya",
+      "work": "アイドルマスター シンデレラガールズ",
+      "title": "Parfait Coquette Celebration in コトブキヤ秋葉原館",
+      "venue": "コトブキヤ秋葉原館 5F コトブキヤベース・アキバ",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://www.kotobukiya.co.jp/event/detail/1356/",
+      "url_kind": "特設",
+      "source": "https://www.kotobukiya.co.jp/event/detail/1356/",
+      "img": "https://www.kotobukiya.co.jp/sm_files/co/event/2026/202610_CG15th/tateKV.png",
+      "tags": [
+        "アイドル",
+        "コトブキヤ"
+      ],
+      "map": [
+        {
+          "n": "コトブキヤ秋葉原館",
+          "q": "コトブキヤ秋葉原館",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "kaiju8-game-1st-animate-shibuya",
+      "work": "怪獣8号",
+      "title": "「怪獣8号 THE GAME」1st Anniversary オンリーショップ in アニメイト（渋谷）",
+      "venue": "アニメイト渋谷",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-11-03",
+      "url": "https://www.animate.co.jp/onlyshop/47487/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/47487/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1788160713-86deda233612248ccfdc008550338e77.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメイト",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "アニメイト渋谷",
+          "q": "アニメイト渋谷",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "kaiju8-game-1st-animate-nagoya",
+      "work": "怪獣8号",
+      "title": "「怪獣8号 THE GAME」1st Anniversary オンリーショップ in アニメイト（名古屋）",
+      "venue": "アニメイト名古屋",
+      "pref": "愛知県",
+      "region": "中部",
+      "prefs": [
+        "愛知県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "start": "2026-11-14",
+      "end": "2026-11-29",
+      "url": "https://www.animate.co.jp/onlyshop/47487/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/47487/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1788160713-86deda233612248ccfdc008550338e77.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメイト",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        }
+      ]
+    },
+    {
+      "id": "kaiju8-game-1st-animate-nipponbashi",
+      "work": "怪獣8号",
+      "title": "「怪獣8号 THE GAME」1st Anniversary オンリーショップ in アニメイト（大阪）",
+      "venue": "アニメイト大阪日本橋",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-12-05",
+      "end": "2026-12-20",
+      "url": "https://www.animate.co.jp/onlyshop/47487/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/47487/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1788160713-86deda233612248ccfdc008550338e77.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメイト",
+        "周年"
+      ],
+      "map": [
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "limbus-autumn-animate-yokohama",
+      "work": "LIMBUS COMPANY",
+      "title": "LIMBUS COMPANY autumnフェア オンリーショップ",
+      "venue": "アニメイト横浜ビブレ",
+      "pref": "神奈川県",
+      "region": "関東",
+      "prefs": [
+        "神奈川県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-11-01",
+      "url": "https://www.animate.co.jp/onlyshop/48312/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48312/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/08/1787728863-061fab29d5a8b93c84e65f604d4b5cc9.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        }
+      ]
+    },
+    {
+      "id": "kimishinu-animate-akiba",
+      "work": "きみが死ぬまで恋がしたい",
+      "title": "TVアニメ『きみが死ぬまで恋がしたい』アニメイトオンリーショップ",
+      "venue": "アニメイト秋葉原2号店 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-10-25",
+      "url": "https://www.animate.co.jp/onlyshop/48420/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48420/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/10/1789035195-57b726f3f5e3ea405b838eb78ed4bd61.jpg",
+      "tags": [
+        "アニメ",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト秋葉原2号店",
+          "q": "アニメイト秋葉原2号店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "utapri-heavens-garden-animate-ikebukuro",
+      "work": "うたの☆プリンスさまっ♪",
+      "title": "HE★VENS GARDEN",
+      "venue": "アニメイト池袋本店 7F SOUTH",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-16",
+      "end": "2026-11-01",
+      "url": "https://www.animate.co.jp/onlyshop/48484/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/48484/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/09/1788162873-2f4483795e9aa76ab738b3c213999fc8-1920x1356.jpg",
+      "tags": [
+        "アイドル",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "breakmycase-winter-animate-ikebukuro",
+      "work": "ブレイクマイケース",
+      "title": "『ブレイクマイケース』Winter Only Shop 2026 in アニメイト",
+      "venue": "アニメイト池袋本店 7F SOUTH",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-12-19",
+      "end": "2027-01-24",
+      "url": "https://www.animate.co.jp/onlyshop/49209/",
+      "url_kind": "特設",
+      "source": "https://www.animate.co.jp/onlyshop/49209/",
+      "img": "https://www.animate.co.jp/assets/uploads/2026/09/1788775917-36ab9272a7e884aac02e3f4ae44d032e.jpg",
+      "tags": [
+        "ゲーム",
+        "乙女ゲーム",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
           "pref": "東京都"
         }
       ]
