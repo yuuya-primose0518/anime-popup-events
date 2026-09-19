@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-18",
+    "updated": "2026-09-19",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -20356,6 +20356,432 @@
         {
           "n": "アニメイト池袋本店",
           "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-elm-aomori",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in 青森 ELM",
+      "venue": "青森 ELM 2F ELMホール",
+      "pref": "青森県",
+      "region": "東北",
+      "prefs": [
+        "青森県"
+      ],
+      "regions": [
+        "東北"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-19",
+      "url": "https://chiikawa-info.jp/p26/pus_aomr/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aomori-elm-saga-yamato-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-21.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "青森 ELM",
+          "q": "青森 ELM 五所川原",
+          "pref": "青森県"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-aeonmall-saga-yamato",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in イオンモール佐賀大和",
+      "venue": "イオンモール佐賀大和 2F フードコート横 特設会場",
+      "pref": "佐賀県",
+      "region": "九州・沖縄",
+      "prefs": [
+        "佐賀県"
+      ],
+      "regions": [
+        "九州・沖縄"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-19",
+      "url": "https://chiikawa-info.jp/p26/pus_asag/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aomori-elm-saga-yamato-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-21.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "イオンモール佐賀大和",
+          "q": "イオンモール佐賀大和",
+          "pref": "佐賀県"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-jr-sendai",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in JR仙台駅",
+      "venue": "JR仙台駅 2F ステンドグラス前催事場",
+      "pref": "宮城県",
+      "region": "東北",
+      "prefs": [
+        "宮城県"
+      ],
+      "regions": [
+        "東北"
+      ],
+      "start": "2026-10-01",
+      "end": "2026-10-09",
+      "url": "https://chiikawa-info.jp/p26/pus_jrss/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-jr-sendai-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/331c96683467269ebc1e6e7e8b246209.jpg",
+      "tags": [
+        "キャラクター",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "JR仙台駅",
+          "q": "JR仙台駅",
+          "pref": "宮城県"
+        }
+      ]
+    },
+    {
+      "id": "sakamotodays-wizard-shibuya-modi",
+      "work": "SAKAMOTO DAYS",
+      "title": "TVアニメ「SAKAMOTO DAYS」POP UP SHOP「Wizard school ver.」（東京）",
+      "venue": "渋谷モディ 1F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-23",
+      "end": "2026-11-01",
+      "url": "https://sakamotodays.jp/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/sakamoto-days-wizard-school-pop-up-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/sakamoto-days-wizard-school-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "sakamotodays-wizard-abeno-rakubasu",
+      "work": "SAKAMOTO DAYS",
+      "title": "TVアニメ「SAKAMOTO DAYS」POP UP SHOP「Wizard school ver.」（大阪）",
+      "venue": "アベノラクバス（あべのHoop 4F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-11-20",
+      "end": "2026-11-29",
+      "url": "https://sakamotodays.jp/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/sakamoto-days-wizard-school-pop-up-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/sakamoto-days-wizard-school-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "アベノラクバス",
+          "q": "あべのHoop 大阪",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "onimai-doubawa-gamers-akiba",
+      "work": "お兄ちゃんはおしまい!",
+      "title": "TVアニメ『お兄ちゃんはおしまい!』POP UP SHOP 童話ver.",
+      "venue": "AKIHABARAゲーマーズ本店 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-23",
+      "end": "2026-11-08",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7910",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/onimai-popup-shop-gamers-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/onimai-popup-shop-gamers-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "ゲーマーズ"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "nijigaku-police-fair-gamers",
+      "work": "ラブライブ!虹ヶ咲学園スクールアイドル同好会",
+      "title": "ラブライブ!虹ヶ咲学園スクールアイドル同好会 ニジガク☆ポリスフェア in ゲーマーズ",
+      "venue": "全国ゲーマーズ各店",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "start": "2026-10-31",
+      "end": "2026-11-20",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7967",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/lovelive-nijigaku-police-fair-gamers-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/nijigaku-police-fair-gamers-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "アイドル",
+        "ゲーマーズ",
+        "巡回"
+      ],
+      "map": []
+    },
+    {
+      "id": "utsuranaindesu-kinokuniya-shinjuku",
+      "work": "写らナイんです",
+      "title": "写らナイんです POP UP SHOP in 紀伊國屋書店",
+      "venue": "紀伊國屋書店 新宿本店",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-18",
+      "end": "2026-12-13",
+      "url": "https://collabo-cafe.com/events/collabo/utsuranaindesu-popup-shop-kinokuniya-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/utsuranaindesu-popup-shop-kinokuniya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/788fdcadf63b315cfc9e10509028459f.jpg",
+      "tags": [
+        "マンガ",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "紀伊國屋書店 新宿本店",
+          "q": "紀伊國屋書店 新宿本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "highschooldxd-kurotights-gamers",
+      "work": "ハイスクールD×D",
+      "title": "ハイスクールD×D HERO 黒タイツver. POP UP STORE in ゲーマーズ",
+      "venue": "AKIHABARAゲーマーズ本店 7F／ゲーマーズなんば店／ゲーマーズ名古屋店",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "愛知県",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "中部",
+        "関西"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-10-18",
+      "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7906",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/highschool-dxd-hero-gamers-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/dxd-hero-gamers-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "ラノベ",
+        "ゲーマーズ"
+      ],
+      "map": [
+        {
+          "n": "AKIHABARAゲーマーズ本店",
+          "q": "AKIHABARAゲーマーズ本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "ゲーマーズなんば店",
+          "q": "ゲーマーズなんば店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ゲーマーズ名古屋店",
+          "q": "ゲーマーズ名古屋店",
+          "pref": "愛知県"
+        }
+      ]
+    },
+    {
+      "id": "gintama-shibuya-tsutaya",
+      "work": "銀魂",
+      "title": "銀魂 季節の草花 POP UP SHOP in SHIBUYA TSUTAYA",
+      "venue": "SHIBUYA TSUTAYA 6F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-13",
+      "end": "2026-12-03",
+      "url": "https://shibuyatsutaya.tsite.jp/kyoto/article/2675.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/gintama-tsutaya-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gintama-tsutaya-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "少年",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "bluelock-artcollection-shibuya-modi",
+      "work": "ブルーロック",
+      "title": "TVアニメ『ブルーロック』POP UP SHOP「アートコレクション ver.」",
+      "venue": "渋谷モディ 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-18",
+      "url": "https://www.the-chara.com/blog/?p=117044",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/blue-lock-popup-shop-shibuya-modi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/blue-lock-artcollection-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "スポーツ",
+        "THEキャラ",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "lovelive-sunshine-shinjuku-marui-men",
+      "work": "ラブライブ!サンシャイン!!",
+      "title": "『ラブライブ！サンシャイン!!』POP UP SHOP in マルイ",
+      "venue": "新宿マルイ メン 8F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://event.amnibus.com/lovelive-sunshine-0101-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/lovelive-sunshine-0101-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/fef56cb98e2fd39d506162867e1ed1e6.jpg",
+      "tags": [
+        "アニメ",
+        "アイドル",
+        "マルイ",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ メン",
+          "q": "新宿マルイ メン",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "tokyoghoul-re-amnibus-storewhite",
+      "work": "東京喰種 トーキョーグール",
+      "title": "TVアニメ『東京喰種トーキョーグール:re』POP UP SHOP in AMNIBUS STORE -white-",
+      "venue": "AMNIBUS STORE -white-（渋谷モディ 4F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://store.amnibus.com/tokyoghoul-storewhite/",
+      "url_kind": "特設",
+      "source": "https://store.amnibus.com/tokyoghoul-storewhite/",
+      "img": "https://amnibus-store.s3.amazonaws.com/wp-content/uploads/505a62de340d6a975cf0ae49696fe316-1.jpg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "青年",
+        "AMNIBUS"
+      ],
+      "map": [
+        {
+          "n": "AMNIBUS STORE -white-",
+          "q": "渋谷モディ",
           "pref": "東京都"
         }
       ]
