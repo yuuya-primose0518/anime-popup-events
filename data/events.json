@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-19",
+    "updated": "2026-09-23",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -12744,16 +12744,18 @@
       "id": "helluvaboss-animate",
       "work": "Helluva Boss",
       "title": "Helluva Boss（ヘルヴァ・ボス）オンリーショップ in アニメイト",
-      "venue": "アニメイト広島／アニメイト札幌／アニメイト梅田",
+      "venue": "4会場（アニメイト札幌／アニメイト新宿／アニメイト梅田／アニメイト広島）",
       "pref": "全国",
       "region": "全国",
       "prefs": [
         "北海道",
+        "東京都",
         "大阪府",
         "広島県"
       ],
       "regions": [
         "北海道",
+        "関東",
         "関西",
         "中国"
       ],
@@ -12772,6 +12774,11 @@
           "n": "アニメイト広島",
           "q": "アニメイト広島",
           "pref": "広島県"
+        },
+        {
+          "n": "アニメイト新宿",
+          "q": "アニメイト新宿",
+          "pref": "東京都"
         },
         {
           "n": "アニメイト札幌",
@@ -20782,6 +20789,418 @@
         {
           "n": "AMNIBUS STORE -white-",
           "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "newpsg-1st-hmv-namba",
+      "work": "New PANTY & STOCKING with GARTERBELT",
+      "title": "New PANTY & STOCKING with GARTERBELT 1周年記念 POP UP SHOP",
+      "venue": "HMV&BOOKS NAMBA（なんばマルイ 7F）",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-18",
+      "url": "https://www.hmv.co.jp/news/article/260721114/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/panty-and-stocking-popup-hmv-namba-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/newpsg-popup-hmv-namba-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS NAMBA",
+          "q": "HMV&BOOKS NAMBA なんばマルイ",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "hasunosora-gothicpunk-tokyoanimecenter",
+      "work": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ",
+      "title": "ラブライブ!蓮ノ空女学院スクールアイドルクラブ POP UP SHOP ～ゴシックパンクコレクション～",
+      "venue": "渋谷モディ 2F 東京アニメセンター",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-25",
+      "url": "https://www.lovelive-anime.jp/news/01_6634.html",
+      "url_kind": "公式",
+      "source": "https://www.lovelive-anime.jp/news/01_6634.html",
+      "img": "https://www.lovelive-anime.jp/lovelive/jp/news/2026/09/17/1002/8elAKPAKUMAHKAIJ/IQtn3PdpXgJsW6Js.jpeg",
+      "tags": [
+        "アニメ",
+        "アイドル"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "shinycolors-hyakkiyakou-yurakucho-marui",
+      "work": "アイドルマスター シャイニーカラーズ",
+      "title": "「アイドルマスター シャイニーカラーズ」百鬼夜行 POP UP SHOP",
+      "venue": "有楽町マルイ 8F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-26",
+      "end": "2026-10-14",
+      "url": "https://www.the-chara.com/blog/?p=120224",
+      "url_kind": "特設",
+      "source": "https://idolmaster-official.jp/news/01_19707",
+      "img": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/oKiqfg7i8UIp3BC6BKMpZ04WHvFMx8OR.jpeg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "マルイ",
+        "THEキャラ"
+      ],
+      "map": [
+        {
+          "n": "有楽町マルイ",
+          "q": "有楽町マルイ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "yugioh-gx-eeo-ikebukuro",
+      "work": "遊☆戯☆王デュエルモンスターズGX",
+      "title": "遊☆戯☆王GX POP UP in eeo Store 池袋本店",
+      "venue": "eeo Store 池袋本店",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-25",
+      "end": "2026-10-12",
+      "url": "https://yu-gi-oh.jp/news/vkmjq8u74dp/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/yugioh-gx-popup-eeo-store-ikebukuro-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ee869b2a6d9824c1f8639ecc3c144639.jpg",
+      "tags": [
+        "アニメ",
+        "eeo"
+      ],
+      "map": [
+        {
+          "n": "eeo Store 池袋本店",
+          "q": "eeo Store 池袋本店",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "girlcrush-marinelook-hmv",
+      "work": "ガールクラッシュ",
+      "title": "『ガールクラッシュ』POP UP SHOP -marine look-",
+      "venue": "HMV&BOOKS SHIBUYA／HMV&BOOKS NAMBA／HMV&BOOKS HAKATA",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "東京都",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "関東",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-10-06",
+      "end": "2026-10-18",
+      "url": "https://www.hmv.co.jp/news/article/260827154/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/girl-crush-pop-up-shop-marine-look-hmv-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/eabf08102a7458426d3ac5267ad7c206.jpg",
+      "tags": [
+        "マンガ",
+        "HMV"
+      ],
+      "map": [
+        {
+          "n": "HMV&BOOKS SHIBUYA",
+          "q": "HMV&BOOKS SHIBUYA",
+          "pref": "東京都"
+        },
+        {
+          "n": "HMV&BOOKS NAMBA",
+          "q": "HMV&BOOKS NAMBA",
+          "pref": "大阪府"
+        },
+        {
+          "n": "HMV&BOOKS HAKATA",
+          "q": "HMV&BOOKS HAKATA",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "mangetsu-coffee-maruzen-kyoto",
+      "work": "満月珈琲店の星詠み",
+      "title": "満月珈琲店の星詠み POPUP STORE",
+      "venue": "丸善 京都本店（京都BAL B1F POPUPスペース）",
+      "pref": "京都府",
+      "region": "関西",
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-01",
+      "end": "2026-11-01",
+      "url": "https://www.maruzenjunkudo.co.jp/pages/full-moon-coffee",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mangetsu-coffee-popup-maruzen-junkudo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mangetsu-coffee-popup-eyecatch.jpg",
+      "tags": [
+        "イラストレーター",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "丸善 京都本店",
+          "q": "丸善 京都本店 京都BAL",
+          "pref": "京都府"
+        }
+      ]
+    },
+    {
+      "id": "mangetsu-coffee-magmabooks-toranomon",
+      "work": "満月珈琲店の星詠み",
+      "title": "満月珈琲店の星詠み POPUP STORE",
+      "venue": "magmabooks（虎ノ門ヒルズ グラスロック 2・3F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-23",
+      "url": "https://www.maruzenjunkudo.co.jp/pages/full-moon-coffee",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mangetsu-coffee-popup-maruzen-junkudo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mangetsu-coffee-popup-eyecatch.jpg",
+      "tags": [
+        "イラストレーター",
+        "書店"
+      ],
+      "map": [
+        {
+          "n": "magmabooks",
+          "q": "magmabooks 虎ノ門ヒルズ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "mangetsu-coffee-maruzen-junkudo-21",
+      "work": "満月珈琲店の星詠み",
+      "title": "満月珈琲店の星詠み POPUP STORE（グッズ取扱店舗）",
+      "venue": "21会場（MARUZEN&ジュンク堂書店 札幌店／ジュンク堂書店 イオンモール旭川駅前店／丸善 仙台アエル店／丸善 スマーク伊勢崎店／ジュンク堂書店 エミテラス所沢店／丸善 津田沼店／丸善 お茶の水店／丸善 日本橋店／ジュンク堂書店 池袋本店／ジュンク堂書店 吉祥寺店／MARUZEN&ジュンク堂書店 新静岡店／ジュンク堂書店 名古屋栄店／丸善 名古屋本店／MARUZEN&ジュンク堂書店 梅田店／ジュンク堂書店 大阪本店／ジュンク堂書店 近鉄あべのハルカス店／ジュンク堂書店 難波店／ジュンク堂書店 三宮店／ジュンク堂書店 姫路店／ジュンク堂書店 福岡店／丸善 博多店）",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "群馬県",
+        "埼玉県",
+        "千葉県",
+        "東京都",
+        "静岡県",
+        "愛知県",
+        "大阪府",
+        "兵庫県",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-10-06",
+      "end": "2026-11-08",
+      "url": "https://www.maruzenjunkudo.co.jp/pages/full-moon-coffee",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/mangetsu-coffee-popup-maruzen-junkudo-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/mangetsu-coffee-popup-eyecatch.jpg",
+      "tags": [
+        "イラストレーター",
+        "書店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "MARUZEN&ジュンク堂書店 札幌店",
+          "q": "MARUZEN&ジュンク堂書店 札幌店",
+          "pref": "北海道"
+        },
+        {
+          "n": "ジュンク堂書店 イオンモール旭川駅前店",
+          "q": "ジュンク堂書店 イオンモール旭川駅前店",
+          "pref": "北海道"
+        },
+        {
+          "n": "丸善 仙台アエル店",
+          "q": "丸善 仙台アエル店",
+          "pref": "宮城県"
+        },
+        {
+          "n": "丸善 スマーク伊勢崎店",
+          "q": "丸善 スマーク伊勢崎店",
+          "pref": "群馬県"
+        },
+        {
+          "n": "ジュンク堂書店 エミテラス所沢店",
+          "q": "ジュンク堂書店 エミテラス所沢店",
+          "pref": "埼玉県"
+        },
+        {
+          "n": "丸善 津田沼店",
+          "q": "丸善 津田沼店",
+          "pref": "千葉県"
+        },
+        {
+          "n": "丸善 お茶の水店",
+          "q": "丸善 お茶の水店",
+          "pref": "東京都"
+        },
+        {
+          "n": "丸善 日本橋店",
+          "q": "丸善 日本橋店",
+          "pref": "東京都"
+        },
+        {
+          "n": "ジュンク堂書店 池袋本店",
+          "q": "ジュンク堂書店 池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "ジュンク堂書店 吉祥寺店",
+          "q": "ジュンク堂書店 吉祥寺店",
+          "pref": "東京都"
+        },
+        {
+          "n": "MARUZEN&ジュンク堂書店 新静岡店",
+          "q": "MARUZEN&ジュンク堂書店 新静岡店",
+          "pref": "静岡県"
+        },
+        {
+          "n": "ジュンク堂書店 名古屋栄店",
+          "q": "ジュンク堂書店 名古屋栄店",
+          "pref": "愛知県"
+        },
+        {
+          "n": "丸善 名古屋本店",
+          "q": "丸善 名古屋本店",
+          "pref": "愛知県"
+        },
+        {
+          "n": "MARUZEN&ジュンク堂書店 梅田店",
+          "q": "MARUZEN&ジュンク堂書店 梅田店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ジュンク堂書店 大阪本店",
+          "q": "ジュンク堂書店 大阪本店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ジュンク堂書店 近鉄あべのハルカス店",
+          "q": "ジュンク堂書店 近鉄あべのハルカス店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ジュンク堂書店 難波店",
+          "q": "ジュンク堂書店 難波店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ジュンク堂書店 三宮店",
+          "q": "ジュンク堂書店 三宮店",
+          "pref": "兵庫県"
+        },
+        {
+          "n": "ジュンク堂書店 姫路店",
+          "q": "ジュンク堂書店 姫路店",
+          "pref": "兵庫県"
+        },
+        {
+          "n": "ジュンク堂書店 福岡店",
+          "q": "ジュンク堂書店 福岡店",
+          "pref": "福岡県"
+        },
+        {
+          "n": "丸善 博多店",
+          "q": "丸善 博多店",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "kirimi-chan-munyugurumi-tokyoeki",
+      "work": "KIRIMIちゃん.",
+      "title": "KIRIMIちゃん. POP-UP STORE×むにゅぐるみパティオ",
+      "venue": "東京駅一番街 B1F 東京キャラクターストリート G階段下ワゴン",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-09-25",
+      "end": "2026-10-01",
+      "url": "https://munyugurumi.jp/news/detail/596",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/kirimi-chan-popup-store-tokyo-station-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/84fb2b75b0527f294a9bf0ef6a544830.jpg",
+      "tags": [
+        "キャラクター",
+        "サンリオ",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "東京駅一番街 東京キャラクターストリート",
+          "q": "東京駅一番街 東京キャラクターストリート",
           "pref": "東京都"
         }
       ]
