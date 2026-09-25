@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-23",
+    "updated": "2026-09-25",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -21204,6 +21204,1069 @@
           "pref": "東京都"
         }
       ]
+    },
+    {
+      "id": "yumepati-tokyoeki-1bangai",
+      "work": "夢色パティシエール",
+      "title": "夢色パティシエール POP UP SHOP in 東京駅",
+      "venue": "東京駅一番街 B1F 東京キャラクターストリート F階段下ワゴン",
+      "start": "2026-10-09",
+      "end": "2026-10-22",
+      "url": "https://eeo.today/pr/yumepati-tokyo/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yumepati-tokyo-character-street-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/yumepati-popup-tokyo-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "東京駅一番街",
+          "q": "東京駅一番街 東京キャラクターストリート",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "yugioh-zexal-granentas-akiba",
+      "work": "遊☆戯☆王ZEXAL",
+      "title": "遊☆戯☆王ZEXAL ストア",
+      "venue": "グランエンタス（秋葉原オノデンビル 1F）",
+      "start": "2026-10-03",
+      "end": "2026-10-18",
+      "url": "https://www.geestore.com/geenet/event/15271.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yugioh-zexal-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/c0506635c385d96559c325bb4b9ec992.jpg",
+      "tags": [
+        "アニメ",
+        "ジーストア"
+      ],
+      "map": [
+        {
+          "n": "グランエンタス",
+          "q": "グランエンタス 秋葉原",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "yugioh-zexal-gee-osaka",
+      "work": "遊☆戯☆王ZEXAL",
+      "title": "遊☆戯☆王ZEXAL ストア",
+      "venue": "ジーストア大阪（日本橋）",
+      "start": "2026-10-24",
+      "end": "2026-11-01",
+      "url": "https://www.geestore.com/geenet/event/15271.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yugioh-zexal-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/c0506635c385d96559c325bb4b9ec992.jpg",
+      "tags": [
+        "アニメ",
+        "ジーストア"
+      ],
+      "map": [
+        {
+          "n": "ジーストア大阪",
+          "q": "ジーストア大阪",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "大阪府",
+      "region": "関西"
+    },
+    {
+      "id": "yugioh-zexal-gee-nagoya",
+      "work": "遊☆戯☆王ZEXAL",
+      "title": "遊☆戯☆王ZEXAL ストア",
+      "venue": "ジーストア名古屋（大須）",
+      "start": "2026-11-07",
+      "end": "2026-11-15",
+      "url": "https://www.geestore.com/geenet/event/15271.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/yugioh-zexal-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/c0506635c385d96559c325bb4b9ec992.jpg",
+      "tags": [
+        "アニメ",
+        "ジーストア"
+      ],
+      "map": [
+        {
+          "n": "ジーストア名古屋",
+          "q": "ジーストア名古屋",
+          "pref": "愛知県"
+        }
+      ],
+      "prefs": [
+        "愛知県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "pref": "愛知県",
+      "region": "中部"
+    },
+    {
+      "id": "shutenkyodan-9bamelo-animate-fair",
+      "work": "終天教団",
+      "title": "『終天教団』×灸場メロ アニメイトフェア",
+      "venue": "アニメイト10店舗（池袋本店／仙台／札幌／名古屋／秋葉原／ラシック福岡天神／大阪日本橋／横浜ビブレ／梅田／広島）",
+      "start": "2026-12-12",
+      "end": "2026-12-27",
+      "url": "https://event.amnibus.com/shuten-kyodan-animate-9bamelo/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/shuten-kyodan-animate-9bamelo/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/c01cf2da17ef0dc5e55f3a20ac715296.jpg",
+      "tags": [
+        "アニメ",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト仙台",
+          "q": "アニメイト仙台",
+          "pref": "宮城県"
+        },
+        {
+          "n": "アニメイト札幌",
+          "q": "アニメイト札幌",
+          "pref": "北海道"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイトラシック福岡天神",
+          "q": "アニメイト ラシック福岡天神",
+          "pref": "福岡県"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト梅田",
+          "q": "アニメイト梅田",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト広島",
+          "q": "アニメイト広島",
+          "pref": "広島県"
+        }
+      ],
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "東京都",
+        "神奈川県",
+        "愛知県",
+        "大阪府",
+        "広島県",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "中国",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "jibakushonen-hanakokun2-animate-fair",
+      "work": "地縛少年花子くん",
+      "title": "TVアニメ『地縛少年花子くん２』アニメイトフェア",
+      "venue": "アニメイト9店舗（池袋本店／仙台／札幌／名古屋／秋葉原／ラシック福岡天神／大阪日本橋／横浜ビブレ／梅田）",
+      "start": "2026-12-12",
+      "end": "2026-12-27",
+      "url": "https://event.amnibus.com/hanakokun-animate/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/hanakokun-animate/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/9256c13239d181ee7eb2d06c980e899f.jpg",
+      "tags": [
+        "アニメ",
+        "アニメイト"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト仙台",
+          "q": "アニメイト仙台",
+          "pref": "宮城県"
+        },
+        {
+          "n": "アニメイト札幌",
+          "q": "アニメイト札幌",
+          "pref": "北海道"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイトラシック福岡天神",
+          "q": "アニメイト ラシック福岡天神",
+          "pref": "福岡県"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト梅田",
+          "q": "アニメイト梅田",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "東京都",
+        "神奈川県",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "no6-sekaiten-matsuya-ginza",
+      "work": "NO.6",
+      "title": "NO.6の世界展",
+      "venue": "松屋銀座 並木通り館 ギンザミライミュージアム",
+      "start": "2026-10-02",
+      "end": "2026-10-26",
+      "url": "https://www.medicos-e.net/newsdetail/no6_sekaiten/",
+      "url_kind": "特設",
+      "source": "https://www.medicos-e.net/newsdetail/no6_sekaiten/",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "メディコス"
+      ],
+      "map": [
+        {
+          "n": "松屋銀座 並木通り館 ギンザミライミュージアム",
+          "q": "松屋銀座 並木通り館",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "rilakkuma-haikyu-baseyard-1",
+      "work": "ハイキュー!!",
+      "title": "『リラックマ×ハイキュー!!』コラボ POP UP STORE",
+      "venue": "ベースヤード トーキョー 原宿店／ベースヤード トーキョー あべのキューズモール店",
+      "start": "2026-11-20",
+      "end": "2026-12-06",
+      "url": "https://haikyu.jp/news/5797/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/rilakkuma-haikyu-popup-store-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/rilakkuma-haikyu-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "ベースヤード トーキョー 原宿店",
+          "q": "baseyard tokyo 原宿",
+          "pref": "東京都"
+        },
+        {
+          "n": "ベースヤード トーキョー あべのキューズモール店",
+          "q": "baseyard tokyo あべのキューズモール",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "rilakkuma-haikyu-baseyard-2",
+      "work": "ハイキュー!!",
+      "title": "『リラックマ×ハイキュー!!』コラボ POP UP STORE",
+      "venue": "ベースヤード トーキョー 札幌ステラプレイス店／ベースヤード トーキョー 河原町オーパ店／ベースヤード トーキョー ミナモア広島店",
+      "start": "2026-12-18",
+      "end": "2027-01-17",
+      "url": "https://haikyu.jp/news/5797/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/rilakkuma-haikyu-popup-store-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/rilakkuma-haikyu-popup-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "ベースヤード トーキョー 札幌ステラプレイス店",
+          "q": "baseyard tokyo 札幌ステラプレイス",
+          "pref": "北海道"
+        },
+        {
+          "n": "ベースヤード トーキョー 河原町オーパ店",
+          "q": "baseyard tokyo 河原町オーパ",
+          "pref": "京都府"
+        },
+        {
+          "n": "ベースヤード トーキョー ミナモア広島店",
+          "q": "baseyard tokyo ミナモア広島",
+          "pref": "広島県"
+        }
+      ],
+      "prefs": [
+        "北海道",
+        "京都府",
+        "広島県"
+      ],
+      "regions": [
+        "北海道",
+        "関西",
+        "中国"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "laulu-popup-shibuya-modi",
+      "work": "劉諮詢室",
+      "title": "劉諮詢室 POP UP SHOP in OIOI",
+      "venue": "渋谷モディ 7F マルイノアニメ",
+      "start": "2026-10-03",
+      "end": "2026-10-12",
+      "url": "https://collabo-cafe.com/events/collabo/laulu-popupshop-oioi-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/laulu-popupshop-oioi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/laulu-popupshop-oioi-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "laulu-popup-nagoya-central-park",
+      "work": "劉諮詢室",
+      "title": "劉諮詢室 POP UP SHOP in OIOI",
+      "venue": "名古屋セントラルパーク イベントスペース by マルイ（44区画）",
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "url": "https://collabo-cafe.com/events/collabo/laulu-popupshop-oioi-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/laulu-popupshop-oioi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/laulu-popupshop-oioi-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "名古屋セントラルパーク",
+          "q": "名古屋セントラルパーク",
+          "pref": "愛知県"
+        }
+      ],
+      "prefs": [
+        "愛知県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "pref": "愛知県",
+      "region": "中部"
+    },
+    {
+      "id": "makeine-yumekawa-animate-fair",
+      "work": "負けヒロインが多すぎる!",
+      "title": "TVアニメ『負けヒロインが多すぎる!』ゆめかわフェアinアニメイト",
+      "venue": "6会場（アニメイト池袋本店／アニメイト秋葉原／アニメイト名古屋／アニメイト豊橋／アニメイト大阪日本橋／アニメイト福岡パルコ）",
+      "start": "2026-10-10",
+      "end": "2026-11-01",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115914",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/makeine-yumekawa-fair-animate-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/makeine-yumekawa-fair-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "ラノベ",
+        "アニメイト",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト豊橋",
+          "q": "アニメイト豊橋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト福岡パルコ",
+          "q": "アニメイト福岡パルコ",
+          "pref": "福岡県"
+        }
+      ],
+      "prefs": [
+        "東京都",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "kurobas-hokago-tower-shibuya",
+      "work": "黒子のバスケ",
+      "title": "TVアニメ「黒子のバスケ」POP UP SHOP in TOWER RECORDS（東京）",
+      "venue": "タワーレコード渋谷店 2F TOWER SPACE SHIBUYA",
+      "start": "2026-10-09",
+      "end": "2026-10-25",
+      "url": "https://kurobas-hokago.anique.jp/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/kuroko-no-basuke-tower-records-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kurobas-popup-2026-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "スポーツ",
+        "タワーレコード",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "タワーレコード渋谷店",
+          "q": "タワーレコード渋谷店",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "kurobas-hokago-tower-abeno-fukuoka",
+      "work": "黒子のバスケ",
+      "title": "TVアニメ「黒子のバスケ」POP UP SHOP in TOWER RECORDS（大阪・福岡）",
+      "venue": "タワーレコード あべのHoop店／タワーレコード福岡パルコ店",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "url": "https://kurobas-hokago.anique.jp/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/kuroko-no-basuke-tower-records-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kurobas-popup-2026-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "スポーツ",
+        "タワーレコード",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "タワーレコード あべのHoop店",
+          "q": "タワーレコード あべのHoop店",
+          "pref": "大阪府"
+        },
+        {
+          "n": "タワーレコード福岡パルコ店",
+          "q": "タワーレコード福岡パルコ店",
+          "pref": "福岡県"
+        }
+      ],
+      "prefs": [
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "関西",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "curious-george-yellowhat-ikebukuro-parco",
+      "work": "おさるのジョージ",
+      "title": "黄色い帽子のおじさんときいろいPOP UP SHOP by Curious George",
+      "venue": "池袋PARCO 本館6F 0% IKEBUKURO",
+      "start": "2026-09-26",
+      "end": "2026-10-18",
+      "url": "https://info.grayparkaservice.com/yellowhat_pus/ikebukuro/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/curious-george-yellowhat_pus-pop-up-store-ikebukuro-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/9c5cc7897f6081028f239b9725c3d88c-1-e1790322420208.jpeg",
+      "tags": [
+        "アニメ",
+        "キャラクター",
+        "PARCO",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "池袋PARCO",
+          "q": "池袋PARCO",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "imasml-popup-yurakucho-marui",
+      "work": "アイドルマスター ミリオンライブ!",
+      "title": "「アイドルマスター ミリオンライブ!」POP UP SHOP",
+      "venue": "有楽町マルイ 7F THEキャラSHOP",
+      "start": "2026-10-10",
+      "end": "2026-10-22",
+      "url": "https://www.the-chara.com/blog/?p=120999",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/millionlive-popup-yurakucho-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/millionlive-yurakucho-marui-popup-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "アイドル",
+        "マルイ",
+        "THEキャラ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "有楽町マルイ",
+          "q": "有楽町マルイ",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "pandorobou-kiddyland-popup",
+      "work": "パンどろぼう",
+      "title": "パンどろぼう POP UP SHOP in KIDDY LAND",
+      "venue": "キデイランド原宿店／キデイランド大阪梅田店",
+      "start": "2026-10-02",
+      "end": "2026-11-01",
+      "url": "https://www.kiddyland.co.jp/event/pandorobou/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/pandorobou-kiddyland-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/pandorobou-kiddyland-popup-eyecatch.jpg",
+      "tags": [
+        "キャラクター",
+        "キデイランド",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "キデイランド原宿店",
+          "q": "キデイランド原宿店",
+          "pref": "東京都"
+        },
+        {
+          "n": "キデイランド大阪梅田店",
+          "q": "キデイランド大阪梅田店",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "piapro-eeo-sukima-ikebukuro",
+      "work": "ピアプロキャラクターズ",
+      "title": "『ピアプロキャラクターズ』POP UP SHOP in 池袋スキマストア by eeo",
+      "venue": "池袋スキマストア（JR池袋駅 地下中央通路 中央改札前）",
+      "start": "2026-11-11",
+      "end": "2026-11-24",
+      "url": "https://eeo.today/pr/piapro2611-ikebukuro/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/piapro-characters-popup-ikebukuro-sukima-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/piapro-ikebukuro-sukima-eyecatch.jpg",
+      "tags": [
+        "音楽",
+        "キャラクター",
+        "駅ナカ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "池袋スキマストア",
+          "q": "池袋スキマストア JR池袋駅",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "kusuriya-toho-popup-shibuya-modi",
+      "work": "薬屋のひとりごと",
+      "title": "TVアニメ「薬屋のひとりごと」POP UP SHOP presented by TOHO animation（東京）",
+      "venue": "渋谷モディ",
+      "start": "2026-10-10",
+      "end": "2026-10-25",
+      "url": "https://collabo-cafe.com/events/collabo/kusuriya-no-hitorigoto-popupshop-marui-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/kusuriya-no-hitorigoto-popupshop-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kusuriya-popupshop-marui-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "ラノベ",
+        "マルイ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "渋谷モディ",
+          "q": "渋谷モディ",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "kusuriya-toho-popup-kobe-marui",
+      "work": "薬屋のひとりごと",
+      "title": "TVアニメ「薬屋のひとりごと」POP UP SHOP presented by TOHO animation（兵庫）",
+      "venue": "神戸マルイ",
+      "start": "2026-11-07",
+      "end": "2026-11-23",
+      "url": "https://collabo-cafe.com/events/collabo/kusuriya-no-hitorigoto-popupshop-marui-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/kusuriya-no-hitorigoto-popupshop-marui-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/kusuriya-popupshop-marui-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "ラノベ",
+        "マルイ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "神戸マルイ",
+          "q": "神戸マルイ",
+          "pref": "兵庫県"
+        }
+      ],
+      "prefs": [
+        "兵庫県"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "兵庫県",
+      "region": "関西"
+    },
+    {
+      "id": "jujutsukaisen-5th-shibuya-tsutaya",
+      "work": "呪術廻戦",
+      "title": "呪術廻戦 5th anniversary POP UP SHOP",
+      "venue": "SHIBUYA TSUTAYA 6F IP書店",
+      "start": "2026-10-02",
+      "end": "2026-10-08",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2661.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/jujutsukaisen-5th-anniversary-popup-shibuya-tsutaya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/jjk-5th-popup-shibuya-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "バトル",
+        "書店",
+        "周年",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "perfect-addiction-tokyoanimecenter",
+      "work": "パーフェクトアディクション",
+      "title": "パーフェクトアディクション POP UP SHOP",
+      "venue": "東京アニメセンター in DNP PLAZA SHIBUYA（渋谷モディ 2F）",
+      "start": "2026-10-09",
+      "end": "2026-10-18",
+      "url": "https://tokyoanimecenter.jp/event/popup-perfectaddiction/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/perfect-addiction-popup-shibuya-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/4ec4911e9cd3e2591d9332cc7d4ed5bf.jpg",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "東京アニメセンター in DNP PLAZA SHIBUYA",
+          "q": "東京アニメセンター 渋谷モディ",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "naruto-episode-popup-kyoto-ekimaru",
+      "work": "NARUTO -ナルト-",
+      "title": "「NARUTO-ナルト- 疾風伝」エピソードPOP UP SHOP",
+      "venue": "エキマル ア・ラ・モード JR京都駅西口店",
+      "start": "2026-10-09",
+      "end": "2026-10-21",
+      "url": "https://collabo-cafe.com/events/collabo/naruto-shippuden-episode-popup-kyoto-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/naruto-shippuden-episode-popup-kyoto-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/02976ffb67c161f2f5b3a68b61685f16.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "バトル",
+        "駅ナカ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "エキマル ア・ラ・モード JR京都駅西口店",
+          "q": "エキマル ア・ラ・モード JR京都駅西口店",
+          "pref": "京都府"
+        }
+      ],
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "京都府",
+      "region": "関西"
+    },
+    {
+      "id": "tougenanki-bokentan-animate-fair",
+      "work": "桃源暗鬼",
+      "title": "TVアニメ『桃源暗鬼』冒険譚フェアinアニメイト",
+      "venue": "全国アニメイト・アニメイト通販（巡回）",
+      "start": "2026-10-03",
+      "end": "2026-10-25",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115648",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/tougen-anki-animate-bokentan-fair-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/a2cdb137669c25f6f68802dafab3fd6c.jpg",
+      "tags": [
+        "アニメ",
+        "少年",
+        "バトル",
+        "アニメイト",
+        "巡回"
+      ],
+      "map": [],
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "aobuta-mai-birthday-animate-2026",
+      "work": "青春ブタ野郎",
+      "title": "「青春ブタ野郎はスイーツガールの夢を見ない」桜島麻衣 バースデーフェア 2026 inアニメイト",
+      "venue": "8会場（アニメイト池袋本店／アニメイト秋葉原／アニメイト藤沢／アニメイト横浜ビブレ／アニメイト名古屋／アニメイト大阪日本橋／アニメイト札幌／アニメイトラシック福岡天神）",
+      "start": "2026-11-28",
+      "end": "2026-12-13",
+      "url": "https://event.amnibus.com/aobuta-animate-2026/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/aobuta-animate-2026/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/52c1bf3d37c51a58a812d0c88b156341.jpg",
+      "tags": [
+        "アニメ",
+        "ラノベ",
+        "アニメイト",
+        "AMNIBUS",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト藤沢",
+          "q": "アニメイト藤沢",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト札幌",
+          "q": "アニメイト札幌",
+          "pref": "北海道"
+        },
+        {
+          "n": "アニメイトラシック福岡天神",
+          "q": "アニメイト ラシック福岡天神",
+          "pref": "福岡県"
+        }
+      ],
+      "prefs": [
+        "北海道",
+        "東京都",
+        "神奈川県",
+        "愛知県",
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "関東",
+        "中部",
+        "関西",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "gintama-tower-records-2026",
+      "work": "銀魂",
+      "title": "TVアニメ『銀魂』POP UP SHOP in TOWER RECORDS",
+      "venue": "タワーレコード渋谷店 4F POP UP SHOPスペース／タワーレコード梅田NU茶屋町店",
+      "start": "2026-10-16",
+      "end": "2026-10-25",
+      "url": "https://tower.jp/article/feature_item/2026/09/25/4001",
+      "url_kind": "特設",
+      "source": "https://tower.jp/article/feature_item/2026/09/25/4001",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "少年",
+        "ギャグ",
+        "タワーレコード",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "タワーレコード渋谷店",
+          "q": "タワーレコード渋谷店",
+          "pref": "東京都"
+        },
+        {
+          "n": "タワーレコード梅田NU茶屋町店",
+          "q": "タワーレコード梅田NU茶屋町店",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "東京都",
+        "大阪府"
+      ],
+      "regions": [
+        "関東",
+        "関西"
+      ],
+      "pref": "全国",
+      "region": "全国"
     }
   ]
 }
