@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-25",
+    "updated": "2026-09-26",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -22267,6 +22267,40 @@
       ],
       "pref": "全国",
       "region": "全国"
+    },
+    {
+      "id": "lovelive-sunshine-yurakucho-marui",
+      "work": "ラブライブ!サンシャイン!!",
+      "title": "『ラブライブ！サンシャイン!!』POP UP SHOP",
+      "venue": "有楽町マルイ 7F",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-11-03",
+      "url": "https://www.the-chara.com/blog/?p=121406",
+      "url_kind": "特設",
+      "source": "https://www.lovelive-anime.jp/news/01_6636.html",
+      "img": "https://www.lovelive-anime.jp/lovelive/jp/news/2026/09/18/1002/fpqa4xPOqSctvXpI/NAUKEOBgJEwtK2Gy.jpeg",
+      "tags": [
+        "アニメ",
+        "アイドル",
+        "マルイ",
+        "THEキャラ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "有楽町マルイ",
+          "q": "有楽町マルイ",
+          "pref": "東京都"
+        }
+      ]
     }
   ]
 }
