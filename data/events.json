@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-09-26",
+    "updated": "2026-09-29",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -22301,6 +22301,592 @@
           "pref": "東京都"
         }
       ]
+    },
+    {
+      "id": "sugushinu-10th-hmv",
+      "work": "吸血鬼すぐ死ぬ",
+      "title": "吸血鬼すぐ死ぬ展 連載10周年記念パーティ!! POP UP STORE",
+      "venue": "HMV栄 POP UPスペース／HMV&BOOKS HAKATA POP UPスペース",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "愛知県",
+        "福岡県"
+      ],
+      "regions": [
+        "中部",
+        "九州・沖縄"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-12",
+      "url": "https://sugushinu10th.fundom-event.com/",
+      "url_kind": "特設",
+      "source": "https://sugushinu10th.fundom-event.com/",
+      "img": "https://sugushinu10th.fundom-event.com/wp-content/uploads/sites/7/2026/02/94ten_KV_web_top_w1920_h1080px.png",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "ギャグ",
+        "周年",
+        "HMV"
+      ],
+      "map": [
+        {
+          "n": "HMV栄",
+          "q": "HMV栄 名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "HMV&BOOKS HAKATA",
+          "q": "HMV&BOOKS HAKATA 福岡",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "nanoha-exceeds-treevillage-yokohama",
+      "work": "魔法少女リリカルなのは",
+      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」Slayer cafe & POP UP SHOP（横浜）",
+      "venue": "エンタメショップ ツリービレッジ 横浜店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "prefs": [
+        "神奈川県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-10",
+      "end": "2026-11-04",
+      "url": "https://tree-village.jp/news/014484.html",
+      "url_kind": "特設",
+      "source": "https://tree-village.jp/news/014484.html",
+      "img": "",
+      "tags": [
+        "魔法少女",
+        "専門店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ツリービレッジ横浜",
+          "q": "ツリービレッジ横浜",
+          "pref": "神奈川県"
+        }
+      ]
+    },
+    {
+      "id": "nanoha-exceeds-treevillage-osaka-hakata",
+      "work": "魔法少女リリカルなのは",
+      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」Slayer cafe & POP UP SHOP（大阪・博多）",
+      "venue": "エンタメショップ ツリービレッジ 大阪店／エンタメショップ ツリービレッジ 博多店",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "関西",
+        "九州・沖縄"
+      ],
+      "start": "2026-11-21",
+      "end": "2026-12-03",
+      "url": "https://tree-village.jp/news/014484.html",
+      "url_kind": "特設",
+      "source": "https://tree-village.jp/news/014484.html",
+      "img": "",
+      "tags": [
+        "魔法少女",
+        "専門店",
+        "巡回"
+      ],
+      "map": [
+        {
+          "n": "ツリービレッジ大阪",
+          "q": "ツリービレッジ大阪 なんばパークス",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ツリービレッジ博多",
+          "q": "ツリービレッジ博多",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "hanoura-maze-treevillage-yokohama",
+      "work": "配信少女ノ裏垢迷宮",
+      "title": "配信少女ノ裏垢迷宮 POP UP SHOP & CAFE in Tree Village YOKOHAMA",
+      "venue": "エンタメショップ ツリービレッジ 横浜店",
+      "pref": "神奈川県",
+      "region": "関東",
+      "prefs": [
+        "神奈川県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-16",
+      "end": "2026-11-13",
+      "url": "https://collabo-cafe.com/events/collabo/hanoura-maze-popup-cafe-tree-village-yokohama-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/hanoura-maze-popup-cafe-tree-village-yokohama-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/hanoura-maze-tree-village-yokohama-kv.jpg",
+      "tags": [
+        "ゲーム",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "ツリービレッジ横浜",
+          "q": "ツリービレッジ横浜",
+          "pref": "神奈川県"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-aeonmall-mito-uchihara",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in イオンモール水戸内原",
+      "venue": "イオンモール水戸内原 2F アジェデアクセサリーズ前",
+      "pref": "茨城県",
+      "region": "関東",
+      "prefs": [
+        "茨城県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-10-26",
+      "url": "https://chiikawa-info.jp/p26/pus_mito/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-mito-uchihara-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ec70d6e9f86ba9c3bc19e175af0b21c6.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "イオンモール水戸内原",
+          "q": "イオンモール水戸内原",
+          "pref": "茨城県"
+        }
+      ]
+    },
+    {
+      "id": "chiikawa-machida-modi",
+      "work": "ちいかわ",
+      "title": "ちいかわ POP UP STORE in 町田モディ",
+      "venue": "町田モディ 4F イベントスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-10-09",
+      "end": "2026-11-01",
+      "url": "https://chiikawa-info.jp/p26/pus_matd/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-machida-modi-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-22.jpeg",
+      "tags": [
+        "キャラクター",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "町田モディ",
+          "q": "町田モディ",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "madoka-premiumshop-shizuoka-parco",
+      "work": "魔法少女まどか☆マギカ",
+      "title": "映画まどマギ PremiumShop in 静岡PARCO",
+      "venue": "静岡PARCO 6F イベントスペース",
+      "start": "2026-10-02",
+      "end": "2026-10-18",
+      "url": "https://premiumshop.tokyo/madoka_magica_2608/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/madomagi-premiumshop-shizuoka-parco-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/madomagi-ps-shizuoka-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "魔法少女",
+        "PARCO"
+      ],
+      "map": [
+        {
+          "n": "静岡PARCO",
+          "q": "静岡PARCO",
+          "pref": "静岡県"
+        }
+      ],
+      "prefs": [
+        "静岡県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "pref": "静岡県",
+      "region": "中部"
+    },
+    {
+      "id": "zelda-animate-fair-2026",
+      "work": "ゼルダの伝説",
+      "title": "ゼルダの伝説｜アニメイトフェア",
+      "venue": "全国アニメイト・アニメイト通販",
+      "start": "2026-10-02",
+      "end": "2027-01-11",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=115582",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/legend-of-zelda-animate-fair-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/zelda-animate-fair-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメイト",
+        "巡回"
+      ],
+      "map": [],
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "pref": "全国",
+      "region": "全国"
+    },
+    {
+      "id": "ichijyoma-kirara-fuz-store",
+      "work": "一畳間まんきつ暮らし!",
+      "title": "一畳間まんきつ暮らし! POP UP SHOP in 新宿",
+      "venue": "きらら&FUZ オフィシャルストア 2F（新宿マルイ アネックス）",
+      "start": "2026-10-01",
+      "end": "2026-10-14",
+      "url": "https://kirara-fuz-store.jp/event/ichijyoma_kirarafuz/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/ichijyoma-popup-shop-kirara-fuz-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/ichijyoma-kirara-fuz-popup-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "きらら&FUZ オフィシャルストア",
+          "q": "きらら&FUZ オフィシャルストア 新宿マルイアネックス",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "umamusume-travel-popup-vol4-kyoto",
+      "work": "ウマ娘 プリティーダービー",
+      "title": "「ウマ娘 トラベルポップアップストア」第4弾 in 京都",
+      "venue": "京都アバンティ 1F セントラルコート",
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "url": "https://travelpopupstore.umamusume.jp/kyoto/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/umamusume-travel-pop-up-store-vol4-kyoto-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/umamusume-travel-popup-vol4-kyoto-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "京都アバンティ",
+          "q": "京都アバンティ",
+          "pref": "京都府"
+        }
+      ],
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "京都府",
+      "region": "関西"
+    },
+    {
+      "id": "haikyu-bunkasai-shinjuku-marui",
+      "work": "ハイキュー!!",
+      "title": "ハイキュー!! わくわく文化祭 POP UP SHOP by Production I.G",
+      "venue": "新宿マルイ アネックス 6F カレンダリウム 6",
+      "start": "2026-10-23",
+      "end": "2026-11-08",
+      "url": "https://haikyu.jp/news/5799/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/haikyu-wakuwaku-bunkasai-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/haikyu-wakuwaku-bunkasai-popup-eyecatch.jpg",
+      "tags": [
+        "スポーツ",
+        "POP UP",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "新宿マルイ アネックス",
+          "q": "新宿マルイ アネックス",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "haikyu-bunkasai-namba-marui",
+      "work": "ハイキュー!!",
+      "title": "ハイキュー!! わくわく文化祭 POP UP SHOP by Production I.G",
+      "venue": "なんばマルイ 5F イベントスペース",
+      "start": "2026-11-14",
+      "end": "2026-11-29",
+      "url": "https://haikyu.jp/news/5799/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/haikyu-wakuwaku-bunkasai-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/haikyu-wakuwaku-bunkasai-popup-eyecatch.jpg",
+      "tags": [
+        "スポーツ",
+        "POP UP",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "なんばマルイ",
+          "q": "なんばマルイ",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "大阪府",
+      "region": "関西"
+    },
+    {
+      "id": "haikyu-bunkasai-morera-gifu",
+      "work": "ハイキュー!!",
+      "title": "ハイキュー!! わくわく文化祭 POP UP SHOP by Production I.G",
+      "venue": "モレラ岐阜 1F ブループラザ",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "url": "https://haikyu.jp/news/5799/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/haikyu-wakuwaku-bunkasai-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/haikyu-wakuwaku-bunkasai-popup-eyecatch.jpg",
+      "tags": [
+        "スポーツ",
+        "POP UP",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "モレラ岐阜",
+          "q": "モレラ岐阜",
+          "pref": "岐阜県"
+        }
+      ],
+      "prefs": [
+        "岐阜県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "pref": "岐阜県",
+      "region": "中部"
+    },
+    {
+      "id": "haikyu-bunkasai-smark-isesaki",
+      "work": "ハイキュー!!",
+      "title": "ハイキュー!! わくわく文化祭 POP UP SHOP by Production I.G",
+      "venue": "スマーク伊勢崎 1F はるなプラザ",
+      "start": "2026-12-11",
+      "end": "2026-12-13",
+      "url": "https://haikyu.jp/news/5799/",
+      "url_kind": "公式",
+      "source": "https://collabo-cafe.com/events/collabo/haikyu-wakuwaku-bunkasai-popup-shop-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/haikyu-wakuwaku-bunkasai-popup-eyecatch.jpg",
+      "tags": [
+        "スポーツ",
+        "POP UP",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "スマーク伊勢崎",
+          "q": "スマーク伊勢崎",
+          "pref": "群馬県"
+        }
+      ],
+      "prefs": [
+        "群馬県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "群馬県",
+      "region": "関東"
+    },
+    {
+      "id": "amazing-digital-circus-expocity",
+      "work": "THE AMAZING DIGITAL CIRCUS",
+      "title": "THE AMAZING DIGITAL CIRCUS POP UP STORE by VILLAGE VANGUARD",
+      "venue": "ららぽーとEXPOCITY 2F BEAMS前",
+      "start": "2026-10-02",
+      "end": "2026-10-25",
+      "url": "https://village-v.co.jp/popup/030749/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/the-amazing-digital-circus-popup-village-vanguard-expocity-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/4b4c5e4f69f26154bc2ab10792237e4e-1.jpeg",
+      "tags": [
+        "アニメ",
+        "商業施設"
+      ],
+      "map": [
+        {
+          "n": "ららぽーとEXPOCITY",
+          "q": "ららぽーとEXPOCITY",
+          "pref": "大阪府"
+        }
+      ],
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "pref": "大阪府",
+      "region": "関西"
+    },
+    {
+      "id": "fragariamemories-3rd-charakore",
+      "work": "フラガリアメモリーズ",
+      "title": "フラガリアメモリーズ 3rd Anniversary POP-UP SHOP（東京会場）",
+      "venue": "キャラコレ（東京駅一番街 B1F 東京キャラクターストリート）",
+      "start": "2026-10-14",
+      "end": "2026-10-28",
+      "url": "https://marimocraft.co.jp/event/fm1014/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/fragariamemories-3rd-anniversary-popup-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/efa43c9798ef6c73f0adb230726903e1.jpeg",
+      "tags": [
+        "キャラクター",
+        "周年",
+        "駅ナカ"
+      ],
+      "map": [
+        {
+          "n": "キャラコレ（東京キャラクターストリート）",
+          "q": "東京キャラクターストリート 東京駅一番街",
+          "pref": "東京都"
+        }
+      ],
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "東京都",
+      "region": "関東"
+    },
+    {
+      "id": "nagano-market-yokohama-sky",
+      "work": "ナガノマーケット",
+      "title": "ナガノマーケット POP UP SHOP in 横浜",
+      "venue": "横浜スカイビル 8F イベントスペース by マルイ",
+      "start": "2026-10-09",
+      "end": "2026-10-19",
+      "url": "https://nagano-info.jp/popupshop/yokohama/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/nagano-market-popup-shop-yokohama-sky-building-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/d2575976357c136d9a74e4a4cad64f35-2.jpeg",
+      "tags": [
+        "キャラクター",
+        "マルイ"
+      ],
+      "map": [
+        {
+          "n": "横浜スカイビル",
+          "q": "横浜スカイビル",
+          "pref": "神奈川県"
+        }
+      ],
+      "prefs": [
+        "神奈川県"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "pref": "神奈川県",
+      "region": "関東"
+    },
+    {
+      "id": "onegai-aipri-treevillage-osaka-hakata",
+      "work": "おねがいアイプリ",
+      "title": "「おねがいアイプリ」POP UP SHOP＆café inツリービレッジ",
+      "venue": "エンタメショップ ツリービレッジ 大阪店／エンタメショップ ツリービレッジ 博多店",
+      "start": "2026-09-26",
+      "end": "2026-10-08",
+      "url": "https://tree-village.jp/news/014470.html",
+      "url_kind": "特設",
+      "source": "https://tree-village.jp/news/014470.html",
+      "img": "",
+      "tags": [
+        "アニメ",
+        "アイドル",
+        "専門店"
+      ],
+      "map": [
+        {
+          "n": "ツリービレッジ大阪",
+          "q": "ツリービレッジ大阪 なんばパークス",
+          "pref": "大阪府"
+        },
+        {
+          "n": "ツリービレッジ博多",
+          "q": "ツリービレッジ博多",
+          "pref": "福岡県"
+        }
+      ],
+      "prefs": [
+        "大阪府",
+        "福岡県"
+      ],
+      "regions": [
+        "関西",
+        "九州・沖縄"
+      ],
+      "pref": "全国",
+      "region": "全国"
     }
   ]
 }
