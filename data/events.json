@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "アニメ POP UP イベント情報",
-    "updated": "2026-10-20",
+    "updated": "2026-10-21",
     "note": "全国のアニメ・マンガ・ゲーム関連のポップアップストア／期間限定ショップ／フェア／オンリーショップ／物販コラボ情報。開催中・開催予定・終了分を収録。"
   },
   "events": [
@@ -32295,6 +32295,381 @@
         {
           "n": "東京キャラクターストリート",
           "q": "東京駅一番街 東京キャラクターストリート",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "trigun-stargaze-arabian-shinjuku",
+      "work": "TRIGUN STARGAZE",
+      "title": "TRIGUN STARGAZE アラビアンVer. POP UP STORE",
+      "venue": "新宿マーケットスペース",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-12",
+      "end": "2026-11-25",
+      "url": "https://eeo.today/pr/trigun-shinjuku/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/trigun-pop-up-store-shinjuku-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/6f13c5aa70bb13e98a1b50c0403c304b-2-e1792569371200.webp",
+      "tags": [
+        "アニメ",
+        "マンガ",
+        "駅ナカ",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "新宿マーケットスペース",
+          "q": "新宿マーケットスペース JR新宿駅 中央東口",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "gnosia-winter-fair-animate",
+      "work": "グノーシア",
+      "title": "TVアニメ『グノーシア』ウィンターフェア2026 in アニメイト",
+      "venue": "全国アニメイト・アニメイト通販",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "全国"
+      ],
+      "regions": [
+        "全国"
+      ],
+      "start": "2026-12-12",
+      "end": "2027-01-11",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116331",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/gnosia-winter-fair-animate-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gnosia-winter-fair-2026-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "アニメイト",
+        "フェア"
+      ],
+      "map": []
+    },
+    {
+      "id": "yubisaki-preppy-animate-fair",
+      "work": "ゆびさきと恋々",
+      "title": "『ゆびさきと恋々』Preppy style フェア in アニメイト",
+      "venue": "15会場（アニメイト札幌／アニメイト仙台／アニメイト池袋本店／アニメイト新宿／アニメイト渋谷／アニメイト秋葉原／アニメイト横浜ビブレ／アニメイト名古屋／アニメイトアバンティ京都／アニメイト梅田／アニメイト大阪日本橋／アニメイト天王寺／アニメイト三宮／アニメイト広島／アニメイトラシック福岡天神）・アニメイト通販",
+      "pref": "全国",
+      "region": "全国",
+      "prefs": [
+        "北海道",
+        "宮城県",
+        "東京都",
+        "神奈川県",
+        "愛知県",
+        "京都府",
+        "大阪府",
+        "兵庫県",
+        "広島県",
+        "福岡県"
+      ],
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "関西",
+        "中国",
+        "九州・沖縄"
+      ],
+      "start": "2026-12-11",
+      "end": "2027-01-03",
+      "url": "https://www.animate-onlineshop.jp/contents/fair_event/detail.php?id=116255",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/renren-preppy-style-fair-animate-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/renren-preppy-style-fair-animate-eyecatch.jpg",
+      "tags": [
+        "マンガ",
+        "アニメイト",
+        "巡回",
+        "フェア"
+      ],
+      "map": [
+        {
+          "n": "アニメイト札幌",
+          "q": "アニメイト札幌",
+          "pref": "北海道"
+        },
+        {
+          "n": "アニメイト仙台",
+          "q": "アニメイト仙台",
+          "pref": "宮城県"
+        },
+        {
+          "n": "アニメイト池袋本店",
+          "q": "アニメイト池袋本店",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト新宿",
+          "q": "アニメイト新宿",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト渋谷",
+          "q": "アニメイト渋谷",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト秋葉原",
+          "q": "アニメイト秋葉原",
+          "pref": "東京都"
+        },
+        {
+          "n": "アニメイト横浜ビブレ",
+          "q": "アニメイト横浜ビブレ",
+          "pref": "神奈川県"
+        },
+        {
+          "n": "アニメイト名古屋",
+          "q": "アニメイト名古屋",
+          "pref": "愛知県"
+        },
+        {
+          "n": "アニメイトアバンティ京都",
+          "q": "アニメイトアバンティ京都",
+          "pref": "京都府"
+        },
+        {
+          "n": "アニメイト梅田",
+          "q": "アニメイト梅田",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト大阪日本橋",
+          "q": "アニメイト大阪日本橋",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト天王寺",
+          "q": "アニメイト天王寺",
+          "pref": "大阪府"
+        },
+        {
+          "n": "アニメイト三宮",
+          "q": "アニメイト三宮",
+          "pref": "兵庫県"
+        },
+        {
+          "n": "アニメイト広島",
+          "q": "アニメイト広島",
+          "pref": "広島県"
+        },
+        {
+          "n": "アニメイトラシック福岡天神",
+          "q": "アニメイトラシック福岡天神",
+          "pref": "福岡県"
+        }
+      ]
+    },
+    {
+      "id": "gundam-base-popup-nagano",
+      "work": "機動戦士ガンダムシリーズ",
+      "title": "THE GUNDAM BASE POP-UP in NAGANO",
+      "venue": "ながの東急百貨店 5F 催事場",
+      "pref": "長野県",
+      "region": "中部",
+      "prefs": [
+        "長野県"
+      ],
+      "regions": [
+        "中部"
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-20",
+      "url": "https://bandai-hobby.net/site/popup_nagano2026/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/gundam-base-popup-nagano-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/gundam-base-popup-nagano-eyecatch.jpg",
+      "tags": [
+        "アニメ",
+        "百貨店",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "ながの東急百貨店",
+          "q": "ながの東急百貨店 長野県長野市南千歳1-1-1",
+          "pref": "長野県"
+        }
+      ]
+    },
+    {
+      "id": "natsuiro-kokorolog-10th-akihabara",
+      "work": "ナツイロココロログ",
+      "title": "『ナツイロココロログ』10th Anniversary POP UP SHOP",
+      "venue": "エターナルトイズAKIHABARA イベントスペース（神田中沢ビル 4F）",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-14",
+      "end": "2026-12-06",
+      "url": "https://kizunalink.com/rorolog/",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/natsuiro-kokorolog-10th-popup-akihabara-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/9c29a02a88bbfc211c27c59d2f5de7f7.jpg",
+      "tags": [
+        "ゲーム",
+        "専門店",
+        "周年",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "エターナルトイズAKIHABARA",
+          "q": "エターナルトイズAKIHABARA 東京都千代田区外神田6丁目14-12 神田中沢ビル",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "persona-animation-popup-kyoto",
+      "work": "ペルソナ",
+      "title": "Persona Series The Animation POP UP STORE",
+      "venue": "京都IP書店（アニプレックスオフィシャルストア）",
+      "pref": "京都府",
+      "region": "関西",
+      "prefs": [
+        "京都府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-30",
+      "end": "2026-11-11",
+      "url": "https://shibuyatsutaya.tsite.jp/kyoto/article/2777.html",
+      "url_kind": "特設",
+      "source": "https://collabo-cafe.com/events/collabo/persona-anime-popup-ip-shoten-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/persona-anime-popup-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "書店",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "京都IP書店（京都髙島屋S.C.[T8]）",
+          "q": "京都髙島屋S.C. T8",
+          "pref": "京都府"
+        }
+      ]
+    },
+    {
+      "id": "persona-animation-popup-shibuya",
+      "work": "ペルソナ",
+      "title": "Persona Series The Animation POP UP STORE",
+      "venue": "SHIBUYA TSUTAYA IP書店",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-12-01",
+      "end": "2027-01-04",
+      "url": "https://collabo-cafe.com/events/collabo/persona-anime-popup-ip-shoten-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/persona-anime-popup-ip-shoten-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/persona-anime-popup-eyecatch.jpg",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "書店",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "SHIBUYA TSUTAYA",
+          "q": "SHIBUYA TSUTAYA",
+          "pref": "東京都"
+        }
+      ]
+    },
+    {
+      "id": "cheeristails-popup-shinsaibashi-parco",
+      "work": "チアリステイルズ",
+      "title": "CHEERISTAILS POP UP STORE",
+      "venue": "心斎橋PARCO 6F EVENT SPACE",
+      "pref": "大阪府",
+      "region": "関西",
+      "prefs": [
+        "大阪府"
+      ],
+      "regions": [
+        "関西"
+      ],
+      "start": "2026-10-30",
+      "end": "2026-11-15",
+      "url": "https://collabo-cafe.com/events/collabo/cheeristails-popup-shinsaibashi-parco-2026/",
+      "url_kind": "出典",
+      "source": "https://collabo-cafe.com/events/collabo/cheeristails-popup-shinsaibashi-parco-2026/",
+      "img": "https://collabo-cafe.com/wp-content/uploads/1a7e11d832cf33b3443f8ec52d844675.jpeg",
+      "tags": [
+        "キャラクター",
+        "サンリオ",
+        "PARCO",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "心斎橋PARCO",
+          "q": "心斎橋PARCO 大阪",
+          "pref": "大阪府"
+        }
+      ]
+    },
+    {
+      "id": "mujina-into-the-deep-kinokuniya",
+      "work": "MUJINA INTO THE DEEP",
+      "title": "『MUJINA INTO THE DEEP』POP UP SHOP in 紀伊國屋書店",
+      "venue": "紀伊國屋書店 新宿本店 1F MANGAselection",
+      "pref": "東京都",
+      "region": "関東",
+      "prefs": [
+        "東京都"
+      ],
+      "regions": [
+        "関東"
+      ],
+      "start": "2026-11-03",
+      "end": "2026-11-15",
+      "url": "https://event.amnibus.com/mujina-kinokuniya/",
+      "url_kind": "特設",
+      "source": "https://event.amnibus.com/mujina-kinokuniya/",
+      "img": "https://amnibus-event.s3.amazonaws.com/wp-content/uploads/3c7c0bb0d114aacaf5a99a6520a9cd44.jpg",
+      "tags": [
+        "マンガ",
+        "書店",
+        "AMNIBUS",
+        "POP UP"
+      ],
+      "map": [
+        {
+          "n": "紀伊國屋書店 新宿本店",
+          "q": "紀伊國屋書店 新宿本店",
           "pref": "東京都"
         }
       ]
